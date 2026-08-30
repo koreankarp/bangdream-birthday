@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:35:04+09:00",
+  "generatedAt": "2026-08-30T17:23:40+09:00",
   "bands": [
     {
       "id": "poppin-party",
@@ -89,7 +89,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (corroborated by official バンドリ！ Tumblr birthday post)",
       "sourceUrl": "https://bangdreaming.tumblr.com/post/175870775709/today-july-14th-is-toyama-kasumis-birthday",
-      "image": "/characters/toyama-kasumi.webp"
+      "image": "/characters/toyama-kasumi.webp",
+      "imageHd": "/characters-hd/toyama-kasumi.webp"
     },
     {
       "id": "hanazono-tae",
@@ -104,7 +105,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Dec 4)",
       "sourceUrl": "https://bandori.fandom.com/wiki/BanG_Dream!:This_day_in_history/December",
-      "image": "/characters/hanazono-tae.webp"
+      "image": "/characters/hanazono-tae.webp",
+      "imageHd": "/characters-hd/hanazono-tae.webp"
     },
     {
       "id": "ushigome-rimi",
@@ -119,7 +121,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game Special Birthday! gacha ran Mar 23)",
       "sourceUrl": "https://bandori.fandom.com/wiki/Ushigome_Rimi_Special_Birthday!_Gacha",
-      "image": "/characters/ushigome-rimi.webp"
+      "image": "/characters/ushigome-rimi.webp",
+      "imageHd": "/characters-hd/ushigome-rimi.webp"
     },
     {
       "id": "yamabuki-saaya",
@@ -134,7 +137,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event May 19)",
       "sourceUrl": "https://bandori.fandom.com/f/t/Yamabuki%20Saaya",
-      "image": "/characters/yamabuki-saaya.webp"
+      "image": "/characters/yamabuki-saaya.webp",
+      "imageHd": "/characters-hd/yamabuki-saaya.webp"
     },
     {
       "id": "ichigaya-arisa",
@@ -149,7 +153,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game Special Birthday! gacha ran Oct 27)",
       "sourceUrl": "https://bandori.fandom.com/wiki/Ichigaya_Arisa_Special_Birthday!_Gacha",
-      "image": "/characters/ichigaya-arisa.webp"
+      "image": "/characters/ichigaya-arisa.webp",
+      "imageHd": "/characters-hd/ichigaya-arisa.webp"
     },
     {
       "id": "mitake-ran",
@@ -165,7 +170,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Apr 10)",
       "sourceUrl": "https://bandori.fandom.com/f/t/Mitake%20Ran",
-      "image": "/characters/mitake-ran.webp"
+      "image": "/characters/mitake-ran.webp",
+      "imageHd": "/characters-hd/mitake-ran.webp"
     },
     {
       "id": "aoba-moca",
@@ -180,7 +186,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (MyAnimeList/anibase reflect official Sep 3)",
       "sourceUrl": "https://myanimelist.net/character/157525/Moca_Aoba",
-      "image": "/characters/aoba-moca.webp"
+      "image": "/characters/aoba-moca.webp",
+      "imageHd": "/characters-hd/aoba-moca.webp"
     },
     {
       "id": "uehara-himari",
@@ -195,7 +202,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (MyAnimeList reflects official Oct 23)",
       "sourceUrl": "https://myanimelist.net/character/157526/Uehara,%20Himari",
-      "image": "/characters/uehara-himari.webp"
+      "image": "/characters/uehara-himari.webp",
+      "imageHd": "/characters-hd/uehara-himari.webp"
     },
     {
       "id": "udagawa-tomoe",
@@ -210,7 +218,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Apr 15)",
       "sourceUrl": "https://bandori.fandom.com/f/t/Udagawa%20Tomoe",
-      "image": "/characters/udagawa-tomoe.webp"
+      "image": "/characters/udagawa-tomoe.webp",
+      "imageHd": "/characters-hd/udagawa-tomoe.webp"
     },
     {
       "id": "hazawa-tsugumi",
@@ -225,7 +234,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Girls Band Party! in-game profile (corroborated by official バンドリ！ Tumblr birthday post, 2018)",
       "sourceUrl": "https://bangdreaming.tumblr.com/post/169390006699/today-jan-7th-is-the-birthday-of-hazawa-tsugumi",
-      "image": "/characters/hazawa-tsugumi.webp"
+      "image": "/characters/hazawa-tsugumi.webp",
+      "imageHd": "/characters-hd/hazawa-tsugumi.webp"
     },
     {
       "id": "maruyama-aya",
@@ -240,7 +250,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/maruyama-aya/",
-      "image": "/characters/maruyama-aya.webp"
+      "image": "/characters/maruyama-aya.webp",
+      "imageHd": "/characters-hd/maruyama-aya.webp"
     },
     {
       "id": "hikawa-hina",
@@ -255,7 +266,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/hikawa-hina/",
-      "image": "/characters/hikawa-hina.webp"
+      "image": "/characters/hikawa-hina.webp",
+      "imageHd": "/characters-hd/hikawa-hina.webp"
     },
     {
       "id": "shirasagi-chisato",
@@ -270,7 +282,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/shirasagi-chisato/",
-      "image": "/characters/shirasagi-chisato.webp"
+      "image": "/characters/shirasagi-chisato.webp",
+      "imageHd": "/characters-hd/shirasagi-chisato.webp"
     },
     {
       "id": "yamato-maya",
@@ -285,7 +298,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/yamato-maya/",
-      "image": "/characters/yamato-maya.webp"
+      "image": "/characters/yamato-maya.webp",
+      "imageHd": "/characters-hd/yamato-maya.webp"
     },
     {
       "id": "wakamiya-eve",
@@ -300,7 +314,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/wakamiya-eve/",
-      "image": "/characters/wakamiya-eve.webp"
+      "image": "/characters/wakamiya-eve.webp",
+      "imageHd": "/characters-hd/wakamiya-eve.webp"
     },
     {
       "id": "minato-yukina",
@@ -315,7 +330,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/minato-yukina/",
-      "image": "/characters/minato-yukina.webp"
+      "image": "/characters/minato-yukina.webp",
+      "imageHd": "/characters-hd/minato-yukina.webp"
     },
     {
       "id": "hikawa-sayo",
@@ -330,7 +346,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/hikawa-sayo/",
-      "image": "/characters/hikawa-sayo.webp"
+      "image": "/characters/hikawa-sayo.webp",
+      "imageHd": "/characters-hd/hikawa-sayo.webp"
     },
     {
       "id": "imai-lisa",
@@ -345,7 +362,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/imai-lisa/",
-      "image": "/characters/imai-lisa.webp"
+      "image": "/characters/imai-lisa.webp",
+      "imageHd": "/characters-hd/imai-lisa.webp"
     },
     {
       "id": "udagawa-ako",
@@ -360,7 +378,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/udagawa-ako/",
-      "image": "/characters/udagawa-ako.webp"
+      "image": "/characters/udagawa-ako.webp",
+      "imageHd": "/characters-hd/udagawa-ako.webp"
     },
     {
       "id": "shirokane-rinko",
@@ -375,7 +394,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/shirokane-rinko/",
-      "image": "/characters/shirokane-rinko.webp"
+      "image": "/characters/shirokane-rinko.webp",
+      "imageHd": "/characters-hd/shirokane-rinko.webp"
     },
     {
       "id": "tsurumaki-kokoro",
@@ -390,7 +410,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/tsurumaki-kokoro/",
-      "image": "/characters/tsurumaki-kokoro.webp"
+      "image": "/characters/tsurumaki-kokoro.webp",
+      "imageHd": "/characters-hd/tsurumaki-kokoro.webp"
     },
     {
       "id": "seta-kaoru",
@@ -405,7 +426,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/seta-kaoru/",
-      "image": "/characters/seta-kaoru.webp"
+      "image": "/characters/seta-kaoru.webp",
+      "imageHd": "/characters-hd/seta-kaoru.webp"
     },
     {
       "id": "kitazawa-hagumi",
@@ -420,7 +442,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/kitazawa-hagumi/",
-      "image": "/characters/kitazawa-hagumi.webp"
+      "image": "/characters/kitazawa-hagumi.webp",
+      "imageHd": "/characters-hd/kitazawa-hagumi.webp"
     },
     {
       "id": "matsubara-kanon",
@@ -435,7 +458,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/matsubara-kanon/",
-      "image": "/characters/matsubara-kanon.webp"
+      "image": "/characters/matsubara-kanon.webp",
+      "imageHd": "/characters-hd/matsubara-kanon.webp"
     },
     {
       "id": "okusawa-misaki",
@@ -450,7 +474,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/okusawa-misaki/",
-      "image": "/characters/okusawa-misaki.webp"
+      "image": "/characters/okusawa-misaki.webp",
+      "imageHd": "/characters-hd/okusawa-misaki.webp"
     },
     {
       "id": "kurata-mashiro",
@@ -465,7 +490,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/kurata-mashiro/",
-      "image": "/characters/kurata-mashiro.webp"
+      "image": "/characters/kurata-mashiro.webp",
+      "imageHd": "/characters-hd/kurata-mashiro.webp"
     },
     {
       "id": "kirigaya-touko",
@@ -480,7 +506,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/kirigaya-toko/",
-      "image": "/characters/kirigaya-touko.webp"
+      "image": "/characters/kirigaya-touko.webp",
+      "imageHd": "/characters-hd/kirigaya-touko.webp"
     },
     {
       "id": "hiromachi-nanami",
@@ -495,7 +522,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/hiromachi-nanami/",
-      "image": "/characters/hiromachi-nanami.webp"
+      "image": "/characters/hiromachi-nanami.webp",
+      "imageHd": "/characters-hd/hiromachi-nanami.webp"
     },
     {
       "id": "futaba-tsukushi",
@@ -510,7 +538,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/futaba-tsukushi/",
-      "image": "/characters/futaba-tsukushi.webp"
+      "image": "/characters/futaba-tsukushi.webp",
+      "imageHd": "/characters-hd/futaba-tsukushi.webp"
     },
     {
       "id": "yashio-rui",
@@ -525,7 +554,8 @@
       "confidence": "official",
       "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
       "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/yashio-rui/",
-      "image": "/characters/yashio-rui.webp"
+      "image": "/characters/yashio-rui.webp",
+      "imageHd": "/characters-hd/yashio-rui.webp"
     },
     {
       "id": "wakana-rei",
@@ -541,7 +571,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Wakana Rei) — 게임/애니 프로필 재수록",
       "sourceUrl": "https://bandori.fandom.com/wiki/Wakana_Rei",
-      "image": "/characters/wakana-rei.webp"
+      "image": "/characters/wakana-rei.webp",
+      "imageHd": "/characters-hd/wakana-rei.webp"
     },
     {
       "id": "asahi-rokka",
@@ -556,7 +587,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Asahi Rokka) — 게임/애니 프로필 재수록",
       "sourceUrl": "https://bandori.fandom.com/wiki/Asahi_Rokka",
-      "image": "/characters/asahi-rokka.webp"
+      "image": "/characters/asahi-rokka.webp",
+      "imageHd": "/characters-hd/asahi-rokka.webp"
     },
     {
       "id": "satou-masaki",
@@ -571,7 +603,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Satou Masuki) — 게임/애니 프로필 재수록",
       "sourceUrl": "https://bandori.fandom.com/wiki/Satou_Masuki",
-      "image": "/characters/satou-masaki.webp"
+      "image": "/characters/satou-masaki.webp",
+      "imageHd": "/characters-hd/satou-masaki.webp"
     },
     {
       "id": "nyubara-reona",
@@ -586,7 +619,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (게임 프로필) — 다중 출처 교차확인",
       "sourceUrl": "https://bandori.fandom.com/wiki/Nyubara_Reona",
-      "image": "/characters/nyubara-reona.webp"
+      "image": "/characters/nyubara-reona.webp",
+      "imageHd": "/characters-hd/nyubara-reona.webp"
     },
     {
       "id": "tamade-chiyu",
@@ -601,7 +635,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Tamade Chiyu) — 게임/애니 프로필 재수록",
       "sourceUrl": "https://bandori.fandom.com/wiki/Tamade_Chiyu",
-      "image": "/characters/tamade-chiyu.webp"
+      "image": "/characters/tamade-chiyu.webp",
+      "imageHd": "/characters-hd/tamade-chiyu.webp"
     },
     {
       "id": "takamatsu-tomori",
@@ -616,7 +651,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Takamatsu Tomori) — 공식 MyGO 프로필 근거",
       "sourceUrl": "https://bandori.fandom.com/wiki/Takamatsu_Tomori",
-      "image": "/characters/takamatsu-tomori.webp"
+      "image": "/characters/takamatsu-tomori.webp",
+      "imageHd": "/characters-hd/takamatsu-tomori.webp"
     },
     {
       "id": "chihaya-anon",
@@ -631,7 +667,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Chihaya Anon) — 공식 MyGO 프로필 근거",
       "sourceUrl": "https://bandori.fandom.com/wiki/Chihaya_Anon",
-      "image": "/characters/chihaya-anon.webp"
+      "image": "/characters/chihaya-anon.webp",
+      "imageHd": "/characters-hd/chihaya-anon.webp"
     },
     {
       "id": "kaname-raana",
@@ -646,7 +683,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Kaname Raana) — 공식 MyGO 프로필 근거",
       "sourceUrl": "https://bandori.fandom.com/wiki/Kaname_Raana",
-      "image": "/characters/kaname-raana.webp"
+      "image": "/characters/kaname-raana.webp",
+      "imageHd": "/characters-hd/kaname-raana.webp"
     },
     {
       "id": "nagasaki-soyo",
@@ -661,7 +699,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Wikia (Nagasaki Soyo) — 공식 MyGO 프로필 근거",
       "sourceUrl": "https://bandori.fandom.com/wiki/Nagasaki_Soyo",
-      "image": "/characters/nagasaki-soyo.webp"
+      "image": "/characters/nagasaki-soyo.webp",
+      "imageHd": "/characters-hd/nagasaki-soyo.webp"
     },
     {
       "id": "shiina-taki",
@@ -676,7 +715,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 게임 사이트 (椎名立希)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/mygo/shiina-taki/",
-      "image": "/characters/shiina-taki.webp"
+      "image": "/characters/shiina-taki.webp",
+      "imageHd": "/characters-hd/shiina-taki.webp"
     },
     {
       "id": "misumi-uika",
@@ -692,7 +732,8 @@
       "confidence": "secondary",
       "sourceName": "BanG Dream! Wikia (Fandom) — Misumi Uika",
       "sourceUrl": "https://bandori.fandom.com/wiki/Misumi_Uika",
-      "image": "/characters/misumi-uika.webp"
+      "image": "/characters/misumi-uika.webp",
+      "imageHd": "/characters-hd/misumi-uika.webp"
     },
     {
       "id": "wakaba-mutsumi",
@@ -707,7 +748,8 @@
       "confidence": "secondary",
       "sourceName": "BanG Dream! Wikia (Fandom) — Wakaba Mutsumi",
       "sourceUrl": "https://bandori.fandom.com/wiki/Wakaba_Mutsumi",
-      "image": "/characters/wakaba-mutsumi.webp"
+      "image": "/characters/wakaba-mutsumi.webp",
+      "imageHd": "/characters-hd/wakaba-mutsumi.webp"
     },
     {
       "id": "yahata-umiri",
@@ -722,7 +764,8 @@
       "confidence": "secondary",
       "sourceName": "BanG Dream! Wikia (Fandom) — Yahata Umiri",
       "sourceUrl": "https://bandori.fandom.com/wiki/Yahata_Umiri",
-      "image": "/characters/yahata-umiri.webp"
+      "image": "/characters/yahata-umiri.webp",
+      "imageHd": "/characters-hd/yahata-umiri.webp"
     },
     {
       "id": "yutenji-nyamu",
@@ -737,7 +780,8 @@
       "confidence": "secondary",
       "sourceName": "BanG Dream! Wikia (Fandom) — Yuutenji Nyamu",
       "sourceUrl": "https://bandori.fandom.com/wiki/Yuutenji_Nyamu",
-      "image": "/characters/yutenji-nyamu.webp"
+      "image": "/characters/yutenji-nyamu.webp",
+      "imageHd": "/characters-hd/yutenji-nyamu.webp"
     },
     {
       "id": "togawa-sakiko",
@@ -752,7 +796,8 @@
       "confidence": "secondary",
       "sourceName": "BanG Dream! Wikia (Fandom) — Togawa Sakiko",
       "sourceUrl": "https://bandori.fandom.com/wiki/Togawa_Sakiko",
-      "image": "/characters/togawa-sakiko.webp"
+      "image": "/characters/togawa-sakiko.webp",
+      "imageHd": "/characters-hd/togawa-sakiko.webp"
     },
     {
       "id": "nakamachi-arale",
@@ -767,7 +812,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (仲町あられ) / bang-dream.com 공식 뉴스 생일 프레젠트 안내",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/nakamachi-arale/",
-      "image": "/characters/nakamachi-arale.webp"
+      "image": "/characters/nakamachi-arale.webp",
+      "imageHd": "/characters-hd/nakamachi-arale.webp"
     },
     {
       "id": "miyanaga-nonoka",
@@ -782,7 +828,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (宮永ののか) / bang-dream.com 공식 뉴스 생일 프레젠트 안내",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/miyanaga-nonoka/",
-      "image": "/characters/miyanaga-nonoka.webp"
+      "image": "/characters/miyanaga-nonoka.webp",
+      "imageHd": "/characters-hd/miyanaga-nonoka.webp"
     },
     {
       "id": "minetsuki-ritsu",
@@ -797,7 +844,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (峰月律)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/minetsuki-ritsu/",
-      "image": "/characters/minetsuki-ritsu.webp"
+      "image": "/characters/minetsuki-ritsu.webp",
+      "imageHd": "/characters-hd/minetsuki-ritsu.webp"
     },
     {
       "id": "fuji-miyako",
@@ -812,7 +860,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (藤都子) / 藤都子 공식 note 계정",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/fuji-miyako/",
-      "image": "/characters/fuji-miyako.webp"
+      "image": "/characters/fuji-miyako.webp",
+      "imageHd": "/characters-hd/fuji-miyako.webp"
     },
     {
       "id": "sengoku-yuno",
@@ -828,7 +877,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (千石ユノ)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/sengoku-yuno/",
-      "image": "/characters/sengoku-yuno.webp"
+      "image": "/characters/sengoku-yuno.webp",
+      "imageHd": "/characters-hd/sengoku-yuno.webp"
     },
     {
       "id": "shiomi-hotaru",
@@ -844,7 +894,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (汐見 蛍)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/shiomi-hotaru/",
-      "image": "/characters/shiomi-hotaru.webp"
+      "image": "/characters/shiomi-hotaru.webp",
+      "imageHd": "/characters-hd/shiomi-hotaru.webp"
     },
     {
       "id": "izawa-natsume",
@@ -859,7 +910,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (伊沢 なつめ)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/izawa-natsume/",
-      "image": "/characters/izawa-natsume.webp"
+      "image": "/characters/izawa-natsume.webp",
+      "imageHd": "/characters-hd/izawa-natsume.webp"
     },
     {
       "id": "kotohira-nagi",
@@ -874,7 +926,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (琴平 凪)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/kotohira-nagi/",
-      "image": "/characters/kotohira-nagi.webp"
+      "image": "/characters/kotohira-nagi.webp",
+      "imageHd": "/characters-hd/kotohira-nagi.webp"
     },
     {
       "id": "hamasaki-mahoro",
@@ -889,7 +942,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (浜崎 まほろ)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/hamasaki-mahoro/",
-      "image": "/characters/hamasaki-mahoro.webp"
+      "image": "/characters/hamasaki-mahoro.webp",
+      "imageHd": "/characters-hd/hamasaki-mahoro.webp"
     },
     {
       "id": "izumi-houka",
@@ -904,7 +958,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (和泉 朋花)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/izumi-houka/",
-      "image": "/characters/izumi-houka.webp"
+      "image": "/characters/izumi-houka.webp",
+      "imageHd": "/characters-hd/izumi-houka.webp"
     },
     {
       "id": "suga-raika",
@@ -920,7 +975,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (須賀 蕾叶)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/suga-raika/",
-      "image": "/characters/suga-raika.webp"
+      "image": "/characters/suga-raika.webp",
+      "imageHd": "/characters-hd/suga-raika.webp"
     },
     {
       "id": "mahashi-miku",
@@ -936,7 +992,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (馬橋 心玖)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/mahashi-miku/",
-      "image": "/characters/mahashi-miku.webp"
+      "image": "/characters/mahashi-miku.webp",
+      "imageHd": "/characters-hd/mahashi-miku.webp"
     },
     {
       "id": "yakura-yomogi",
@@ -951,7 +1008,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (矢倉 蓬咲)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/yakura-yomogi/",
-      "image": "/characters/yakura-yomogi.webp"
+      "image": "/characters/yakura-yomogi.webp",
+      "imageHd": "/characters-hd/yakura-yomogi.webp"
     },
     {
       "id": "umezato-chieri",
@@ -966,7 +1024,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (梅里 ちえり)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/umezato-chieri/",
-      "image": "/characters/umezato-chieri.webp"
+      "image": "/characters/umezato-chieri.webp",
+      "imageHd": "/characters-hd/umezato-chieri.webp"
     },
     {
       "id": "shinomiya-shizuku",
@@ -981,7 +1040,8 @@
       "confidence": "official",
       "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (四宮 寧月)",
       "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/shinomiya-shizuku/",
-      "image": "/characters/shinomiya-shizuku.webp"
+      "image": "/characters/shinomiya-shizuku.webp",
+      "imageHd": "/characters-hd/shinomiya-shizuku.webp"
     }
   ]
 }

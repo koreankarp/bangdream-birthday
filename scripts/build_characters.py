@@ -18,6 +18,7 @@ BANDS = ROOT / "data" / "bands.json"
 BIRTHDAY_DIR = ROOT / "data" / "birthdays"
 OUT = ROOT / "src" / "data" / "characters.json"
 IMAGE_DIR = ROOT / "public" / "characters"
+IMAGE_HD_DIR = ROOT / "public" / "characters-hd"
 LOGO_DIR = ROOT / "public" / "bands"
 LOGO_EXTENSIONS = ("svg", "webp", "png", "jpg", "gif")
 
@@ -121,6 +122,7 @@ def main() -> None:
 
             found = birthdays.get(cid, {})
             image = f"/characters/{cid}.webp"
+            image_hd = f"/characters-hd/{cid}.webp"
             characters.append(
                 {
                     "id": cid,
@@ -133,7 +135,9 @@ def main() -> None:
                     "confidence": found.get("confidence", "unknown"),
                     "sourceName": found.get("sourceName"),
                     "sourceUrl": found.get("sourceUrl"),
+                    # 목록(티켓)은 썸네일, 패스 카드는 고해상도를 쓴다.
                     "image": image if (IMAGE_DIR / f"{cid}.webp").exists() else None,
+                    "imageHd": image_hd if (IMAGE_HD_DIR / f"{cid}.webp").exists() else None,
                 }
             )
 

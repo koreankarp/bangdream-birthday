@@ -3,6 +3,8 @@ node_modules/
 dist/
 *.tsbuildinfo
 .vite/
+__pycache__/
+*.pyc
 
 # 디자인 시안 — 결정용으로만 쓴 로컬 산출물이라 빌드·배포에 들어가지 않는다
 mockups/

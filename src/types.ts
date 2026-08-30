@@ -20,7 +20,10 @@ export interface Character {
   confidence: Confidence;
   sourceName: string | null;
   sourceUrl: string | null;
+  /** 목록용 썸네일 (200px 대) */
   image: string | null;
+  /** 패스 카드용 고해상도 초상화 (1000px 대). 없으면 image 로 대체한다. */
+  imageHd: string | null;
 }
 
 export interface CharacterData {

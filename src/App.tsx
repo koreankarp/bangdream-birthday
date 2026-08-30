@@ -76,9 +76,12 @@ function TicketRow({ ticket, onOpen }: { ticket: Ticket; onOpen: (ticket: Ticket
           </span>
         )}
 
-        <span className="ticket__name">{character.nameKo}</span>
-
-        <BandLogo bandId={character.bandId} className="ticket__logo" />
+        {/* 데스크톱에서는 display:contents 로 투명해져 한 줄에 늘어서고,
+            좁은 화면에서는 이 래퍼가 세로 스택이 된다. */}
+        <span className="ticket__who">
+          <span className="ticket__name">{character.nameKo}</span>
+          <BandLogo bandId={character.bandId} className="ticket__logo" />
+        </span>
 
         <span className="ticket__dday">
           <span className="ticket__dday-num">{daysUntil}</span>

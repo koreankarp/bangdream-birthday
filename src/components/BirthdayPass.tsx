@@ -11,6 +11,8 @@ import type { Ticket } from '../types';
 export default function BirthdayPass({ ticket }: { ticket: Ticket }) {
   const { character, month, day, daysUntil } = ticket;
   const isToday = daysUntil === 0;
+  // 카드는 크게 보여주므로 고해상도를 쓰고, 없으면 썸네일로 되돌린다.
+  const portrait = character.imageHd ?? character.image;
 
   return (
     <article className="pass" style={{ ['--band-color' as string]: bandColor(character.bandId) }}>
@@ -18,8 +20,15 @@ export default function BirthdayPass({ ticket }: { ticket: Ticket }) {
         <span className="pass__hole" />
       </div>
 
-      {character.image ? (
-        <img className="pass__face" src={assetUrl(character.image)} alt="" width={152} height={152} />
+      {portrait ? (
+        <img
+          className="pass__face"
+          src={assetUrl(portrait)}
+          alt=""
+          width={152}
+          height={182}
+          loading="lazy"
+        />
       ) : (
         <span className="pass__face pass__face--empty" aria-hidden="true">
           {character.nameKo.slice(0, 1)}
