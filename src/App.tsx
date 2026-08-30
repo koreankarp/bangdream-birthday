@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import BandLogo from './components/BandLogo';
 import BirthdayPass from './components/BirthdayPass';
+import PassDialog from './components/PassDialog';
 import rawData from './data/characters.json';
 import { assetUrl } from './lib/asset';
 import { bandColor, bandSpectrum, monthAbbr } from './lib/bandTheme';
@@ -48,43 +49,50 @@ function useToday(): Date {
   return today;
 }
 
-/** 다가오는 생일 한 줄. 오늘 생일인 캐릭터는 패스 카드로 따로 나가므로 여기 오지 않는다. */
-function TicketRow({ ticket }: { ticket: Ticket }) {
+/** 다가오는 생일 한 줄. 누르면 패스 카드가 뜬다. */
+function TicketRow({ ticket, onOpen }: { ticket: Ticket; onOpen: (ticket: Ticket) => void }) {
   const { character, daysUntil, month, day } = ticket;
   const color = bandColor(character.bandId);
 
   return (
-    <article className="ticket" style={{ ['--band-color' as string]: color }}>
-      <div className="ticket__stub">
+    <button
+      type="button"
+      className="ticket"
+      style={{ ['--band-color' as string]: color }}
+      onClick={() => onOpen(ticket)}
+      aria-label={`${character.nameKo}, ${character.bandName}, ${month}월 ${day}일, D-${daysUntil}. 카드 보기`}
+    >
+      <span className="ticket__stub">
         <span className="ticket__month">{monthAbbr(month)}</span>
         <span className="ticket__day">{day}</span>
-      </div>
+      </span>
 
-      <div className="ticket__body">
+      <span className="ticket__body">
         {character.image ? (
-          <img className="ticket__face" src={assetUrl(character.image)} alt="" width={52} height={52} />
+          <img className="ticket__face" src={assetUrl(character.image)} alt="" width={72} height={72} />
         ) : (
           <span className="ticket__face ticket__face--empty" aria-hidden="true">
             {character.nameKo.slice(0, 1)}
           </span>
         )}
 
-        <h2 className="ticket__name">{character.nameKo}</h2>
+        <span className="ticket__name">{character.nameKo}</span>
 
         <BandLogo bandId={character.bandId} className="ticket__logo" />
 
-        <div className="ticket__dday">
+        <span className="ticket__dday">
           <span className="ticket__dday-num">{daysUntil}</span>
           <span className="ticket__dday-unit">DAYS</span>
-        </div>
-      </div>
-    </article>
+        </span>
+      </span>
+    </button>
   );
 }
 
 export default function App() {
   const today = useToday();
   const [bandFilter, setBandFilter] = useState<string>(ALL);
+  const [selected, setSelected] = useState<Ticket | null>(null);
 
   const allTickets = useMemo(() => buildTickets(data.characters, today), [today]);
 
@@ -172,9 +180,11 @@ export default function App() {
 
       <main className="strip">
         {upcoming.map((ticket) => (
-          <TicketRow key={ticket.character.id} ticket={ticket} />
+          <TicketRow key={ticket.character.id} ticket={ticket} onOpen={setSelected} />
         ))}
       </main>
+
+      <PassDialog ticket={selected} onClose={() => setSelected(null)} />
 
       {unknown.length > 0 && (
         <section className="pending">

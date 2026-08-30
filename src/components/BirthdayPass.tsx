@@ -9,7 +9,8 @@ import type { Ticket } from '../types';
  * '다른 물건'임을 만들어 한눈에 구분되게 한다.
  */
 export default function BirthdayPass({ ticket }: { ticket: Ticket }) {
-  const { character, month, day } = ticket;
+  const { character, month, day, daysUntil } = ticket;
+  const isToday = daysUntil === 0;
 
   return (
     <article className="pass" style={{ ['--band-color' as string]: bandColor(character.bandId) }}>
@@ -25,11 +26,18 @@ export default function BirthdayPass({ ticket }: { ticket: Ticket }) {
         </span>
       )}
 
-      <p className="pass__greeting">
-        HAPPY
-        <br />
-        BIRTHDAY
-      </p>
+      {/* 당일이면 축하, 아니면 남은 일수를 같은 자리에 둔다 */}
+      {isToday ? (
+        <p className="pass__greeting">
+          HAPPY
+          <br />
+          BIRTHDAY
+        </p>
+      ) : (
+        <p className="pass__greeting pass__greeting--countdown">
+          D-{daysUntil}
+        </p>
+      )}
 
       <h2 className="pass__name">{character.nameKo}</h2>
       <BandLogo bandId={character.bandId} className="pass__logo" />
