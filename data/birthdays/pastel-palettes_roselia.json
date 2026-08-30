@@ -1,0 +1,105 @@
+{
+  "collectedAt": "2026-08-30T15:14:45+09:00",
+  "characters": [
+    {
+      "id": "maruyama-aya",
+      "nameKo": "마루야마 아야",
+      "bandId": "pastel-palettes",
+      "birthday": "12-27",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/maruyama-aya/",
+      "notes": "公식 게임 사이트 誕生日 필드: 12月27日 (山羊座)"
+    },
+    {
+      "id": "hikawa-hina",
+      "nameKo": "히카와 히나",
+      "bandId": "pastel-palettes",
+      "birthday": "03-20",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/hikawa-hina/",
+      "notes": "공식 게임 사이트 誕生日 필드: 3月20日 (魚座). 쌍둥이 언니 히카와 사요와 같은 날."
+    },
+    {
+      "id": "shirasagi-chisato",
+      "nameKo": "시라사기 치사토",
+      "bandId": "pastel-palettes",
+      "birthday": "04-06",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/shirasagi-chisato/",
+      "notes": "공식 게임 사이트 誕生日 필드: 4月6日 (牡羊座)"
+    },
+    {
+      "id": "yamato-maya",
+      "nameKo": "야마토 마야",
+      "bandId": "pastel-palettes",
+      "birthday": "11-03",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/yamato-maya/",
+      "notes": "공식 게임 사이트 誕生日 필드: 11月3日 (蠍座)"
+    },
+    {
+      "id": "wakamiya-eve",
+      "nameKo": "와카미야 이브",
+      "bandId": "pastel-palettes",
+      "birthday": "06-27",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/wakamiya-eve/",
+      "notes": "공식 게임 사이트 誕生日 필드: 6月27日 (蟹座)"
+    },
+    {
+      "id": "minato-yukina",
+      "nameKo": "미나토 유키나",
+      "bandId": "roselia",
+      "birthday": "10-26",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/minato-yukina/",
+      "notes": "공식 게임 사이트 誕生日 필드: 10月26日 (蠍座)"
+    },
+    {
+      "id": "hikawa-sayo",
+      "nameKo": "히카와 사요",
+      "bandId": "roselia",
+      "birthday": "03-20",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/hikawa-sayo/",
+      "notes": "공식 게임 사이트 誕生日 필드: 3月20日 (魚座). 쌍둥이 동생 히카와 히나와 같은 날."
+    },
+    {
+      "id": "imai-lisa",
+      "nameKo": "이마이 리사",
+      "bandId": "roselia",
+      "birthday": "08-25",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/imai-lisa/",
+      "notes": "공식 게임 사이트 誕生日 필드: 8月25日 (乙女座)"
+    },
+    {
+      "id": "udagawa-ako",
+      "nameKo": "우다가와 아코",
+      "bandId": "roselia",
+      "birthday": "07-03",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/udagawa-ako/",
+      "notes": "공식 게임 사이트 誕生日 필드: 7月3日 (蟹座)"
+    },
+    {
+      "id": "shirokane-rinko",
+      "nameKo": "시로카네 린코",
+      "bandId": "roselia",
+      "birthday": "10-17",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/shirokane-rinko/",
+      "notes": "공식 게임 사이트 誕生日 필드: 10月17日 (天秤座)"
+    }
+  ]
+}

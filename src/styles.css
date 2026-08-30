@@ -1,0 +1,470 @@
+:root {
+  --bg: #101118;
+  --surface: #1b1d28;
+  --text: #f2f2f7;
+  --text-dim: #8a8ca4;
+  --text-faint: #71738a;
+  --hairline: rgba(255, 255, 255, 0.13);
+  --band-color: #8a8ca4;
+
+  --font-body: 'Gowun Dodum', system-ui, -apple-system, sans-serif;
+  --font-display: 'Bebas Neue', 'Gowun Dodum', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 40px 20px 72px;
+}
+
+/* ── 상단 배너 ── */
+.banner {
+  margin-bottom: 4px;
+}
+
+.banner__row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.banner__mark {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+
+.banner__mark em {
+  font-style: normal;
+  color: #ff6392;
+}
+
+.banner__date {
+  margin: 0;
+  flex: 0 0 auto;
+  font-size: 11.5px;
+  letter-spacing: 0.16em;
+  color: #7d7f96;
+}
+
+.banner__spectrum {
+  height: 3px;
+  margin-top: 16px;
+  border-radius: 2px;
+  opacity: 0.85;
+}
+
+.lede {
+  margin: 14px 0 0;
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: #b9bbcd;
+}
+
+.lede strong {
+  color: #fff;
+  font-weight: 400;
+}
+
+/* ── 밴드 필터 ── */
+.filters {
+  display: flex;
+  gap: 7px;
+  flex-wrap: wrap;
+  margin: 22px 0 24px;
+}
+
+.chip {
+  font: inherit;
+  font-size: 11.5px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: 1px solid var(--hairline);
+  background: transparent;
+  color: var(--text-dim);
+  cursor: pointer;
+  transition: border-color 0.16s, color 0.16s, background 0.16s;
+}
+
+.chip:hover {
+  border-color: var(--band-color);
+  color: var(--text);
+}
+
+.chip:focus-visible {
+  outline: 2px solid var(--band-color);
+  outline-offset: 2px;
+}
+
+.chip--on {
+  background: #fff;
+  color: var(--bg);
+  border-color: #fff;
+}
+
+/* ── 티켓 ── */
+.strip {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+
+.ticket {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  background: var(--surface);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 10px 26px -16px #000;
+}
+
+.ticket__stub {
+  flex: 0 0 84px;
+  position: relative;
+  background: var(--band-color);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 절취선 */
+.ticket__stub::after {
+  content: '';
+  position: absolute;
+  right: -1px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-image: radial-gradient(circle, var(--bg) 1.6px, transparent 1.7px);
+  background-size: 2px 9px;
+}
+
+.ticket__month {
+  font-family: var(--font-display);
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  opacity: 0.85;
+}
+
+.ticket__day {
+  font-family: var(--font-display);
+  font-size: 33px;
+  line-height: 1;
+}
+
+.ticket__body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 13px 16px;
+}
+
+.ticket__face {
+  flex: 0 0 auto;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #2a2c3a;
+  box-shadow: 0 0 0 2px var(--band-color);
+}
+
+.ticket__face--empty {
+  display: grid;
+  place-items: center;
+  font-size: 20px;
+  color: #b9bbcd;
+}
+
+.ticket__name {
+  flex: 0 1 auto;
+  min-width: 0;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 이름 오른쪽에 붙는 밴드 로고. 남는 공간을 밀어내고 D-day 앞에 자리 잡는다. */
+.ticket__logo {
+  flex: 0 0 auto;
+  margin-left: auto;
+  height: 34px;
+  width: auto;
+  max-width: 168px;
+  object-fit: contain;
+  object-position: right center;
+}
+
+/* 로고 파일이 없을 때의 텍스트 대체 */
+.ticket__logo--text {
+  height: auto;
+  font-size: 12px;
+  color: var(--text-dim);
+  letter-spacing: 0.02em;
+  text-align: right;
+}
+
+.ticket__dday {
+  flex: 0 0 auto;
+  text-align: right;
+  font-family: var(--font-display);
+  letter-spacing: 0.04em;
+}
+
+.ticket__dday-num {
+  display: block;
+  font-size: 30px;
+  line-height: 1;
+  color: var(--band-color);
+}
+
+.ticket__dday-unit {
+  display: block;
+  font-size: 10.5px;
+  color: var(--text-faint);
+  letter-spacing: 0.18em;
+}
+
+/* ── 오늘 생일: 패스 카드 ── */
+.pass-stage {
+  position: relative;
+  margin: 22px 0 4px;
+  padding: 30px 0 26px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 26px;
+  border-radius: 16px;
+  background: radial-gradient(
+    560px 220px at 50% 0%,
+    color-mix(in srgb, var(--band-color) 22%, transparent),
+    transparent 72%
+  );
+}
+
+.pass {
+  position: relative;
+  width: 214px;
+  padding-bottom: 18px;
+  background: #20222e;
+  border-radius: 14px;
+  box-shadow: 0 22px 50px -20px #000, 0 0 0 1px rgba(255, 255, 255, 0.08);
+  transform: rotate(-2.2deg);
+}
+
+.pass:nth-child(even) {
+  transform: rotate(2.4deg);
+}
+
+.pass__lanyard {
+  height: 34px;
+  border-radius: 14px 14px 0 0;
+  display: grid;
+  place-items: center;
+  background: repeating-linear-gradient(
+    115deg,
+    var(--band-color) 0 12px,
+    color-mix(in srgb, var(--band-color) 68%, #000) 12px 24px
+  );
+}
+
+.pass__hole {
+  width: 46px;
+  height: 9px;
+  border-radius: 999px;
+  background: var(--bg);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.9);
+}
+
+.pass__face {
+  display: block;
+  width: 152px;
+  height: 152px;
+  margin: 20px auto 0;
+  border-radius: 10px;
+  object-fit: cover;
+  background: #2a2c3a;
+  box-shadow: 0 0 0 2px var(--band-color);
+}
+
+.pass__face--empty {
+  display: grid;
+  place-items: center;
+  font-size: 46px;
+  color: #b9bbcd;
+}
+
+.pass__greeting {
+  margin: 16px 0 0;
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: 26px;
+  line-height: 1.05;
+  letter-spacing: 0.05em;
+  color: var(--band-color);
+}
+
+.pass__name {
+  margin: 7px 0 0;
+  text-align: center;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.pass__logo {
+  display: block;
+  height: 34px;
+  width: auto;
+  max-width: 160px;
+  margin: 12px auto 0;
+  object-fit: contain;
+}
+
+.pass__logo--text {
+  height: auto;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.pass__date {
+  display: block;
+  width: fit-content;
+  margin: 13px auto 0;
+  padding: 3px 12px;
+  border-radius: 999px;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: #fff;
+  background: color-mix(in srgb, var(--band-color) 24%, transparent);
+}
+
+.pass__barcode {
+  height: 26px;
+  margin: 15px 16px 0;
+  opacity: 0.5;
+  background-image: repeating-linear-gradient(
+    90deg,
+    #cfd0dd 0 2px,
+    transparent 2px 4px,
+    #cfd0dd 4px 5px,
+    transparent 5px 9px
+  );
+}
+
+/* ── 생일 미공개 ── */
+.pending {
+  margin-top: 40px;
+  padding-top: 26px;
+  border-top: 1px solid var(--hairline);
+}
+
+.pending__title {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin: 0;
+  color: #9b9db4;
+}
+
+.pending__note {
+  margin: 8px 0 16px;
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--text-faint);
+}
+
+.pending__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.pending__item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 12px 6px 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  font-size: 12.5px;
+  color: #cfd0dd;
+}
+
+.pending__item em {
+  font-style: normal;
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.pending__dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--band-color);
+}
+
+@media (max-width: 460px) {
+  .banner__row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .banner__mark {
+    font-size: 23px;
+  }
+
+  .ticket__stub {
+    flex-basis: 68px;
+  }
+
+  .ticket__body {
+    gap: 11px;
+    padding: 11px 13px;
+  }
+
+  .ticket__face {
+    width: 44px;
+    height: 44px;
+  }
+
+  .ticket__logo {
+    height: 26px;
+    max-width: 104px;
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "collectedAt": "2026-08-30T06:16:26Z",
+  "characters": [
+    {
+      "id": "tsurumaki-kokoro",
+      "nameKo": "츠루마키 코코로",
+      "bandId": "hello-happy-world",
+      "birthday": "08-08",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/tsurumaki-kokoro/",
+      "notes": "誕生日: 8月8日"
+    },
+    {
+      "id": "seta-kaoru",
+      "nameKo": "세타 카오루",
+      "bandId": "hello-happy-world",
+      "birthday": "02-28",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/seta-kaoru/",
+      "notes": "誕生日: 2月28日"
+    },
+    {
+      "id": "kitazawa-hagumi",
+      "nameKo": "키타자와 하구미",
+      "bandId": "hello-happy-world",
+      "birthday": "07-30",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/kitazawa-hagumi/",
+      "notes": "誕生日: 7月30日"
+    },
+    {
+      "id": "matsubara-kanon",
+      "nameKo": "마츠바라 카논",
+      "bandId": "hello-happy-world",
+      "birthday": "05-11",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/matsubara-kanon/",
+      "notes": "誕生日: 5月11日"
+    },
+    {
+      "id": "okusawa-misaki",
+      "nameKo": "오쿠사와 미사키",
+      "bandId": "hello-happy-world",
+      "birthday": "10-01",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/okusawa-misaki/",
+      "notes": "誕生日: 10月1日"
+    },
+    {
+      "id": "kurata-mashiro",
+      "nameKo": "쿠라타 마시로",
+      "bandId": "morfonica",
+      "birthday": "02-19",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/kurata-mashiro/",
+      "notes": "誕生日: 2月19日"
+    },
+    {
+      "id": "kirigaya-touko",
+      "nameKo": "키리가야 토우코",
+      "bandId": "morfonica",
+      "birthday": "12-16",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/kirigaya-toko/",
+      "notes": "誕生日: 12月16日. 公式サイトのURLスラッグは kirigaya-toko"
+    },
+    {
+      "id": "hiromachi-nanami",
+      "nameKo": "히로마치 나나미",
+      "bandId": "morfonica",
+      "birthday": "06-16",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/hiromachi-nanami/",
+      "notes": "誕生日: 6月16日"
+    },
+    {
+      "id": "futaba-tsukushi",
+      "nameKo": "후타바 츠쿠시",
+      "bandId": "morfonica",
+      "birthday": "09-15",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/futaba-tsukushi/",
+      "notes": "誕生日: 9月15日"
+    },
+    {
+      "id": "yashio-rui",
+      "nameKo": "야시오 루이",
+      "bandId": "morfonica",
+      "birthday": "11-19",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/yashio-rui/",
+      "notes": "誕生日: 11月19日"
+    }
+  ]
+}

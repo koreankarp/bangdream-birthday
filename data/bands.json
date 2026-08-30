@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "title": "BanG Dream! 주역 밴드 및 멤버",
+    "scope": "나무위키 BanG Dream!/등장인물 문서의 주역 밴드 12팀",
+    "sourceName": "나무위키 - BanG Dream!/등장인물",
+    "sourceUrl": "https://namu.wiki/w/BanG%20Dream!/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+    "sourceLastModified": "2026-08-30 04:20:55",
+    "retrievedAt": "2026-08-30T14:28:18+09:00",
+    "license": "CC BY-NC-SA 2.0 KR",
+    "notes": [
+      "관계도 초기 데이터로 사용할 수 있도록 영문 소문자 kebab-case ID를 부여했다.",
+      "roles는 vocal, guitar, bass, drums, keyboard, dj, violin, manipulator 중 하나 이상이다.",
+      "RAISE A SUILEN과 Ave Mujica는 활동명과 본명을 별도 필드로 보존했다.",
+      "나무위키는 사용자 편집 문서이므로 공개 배포 전 공식 사이트와 교차 검증하는 것이 좋다."
+    ]
+  },
+  "bands": [
+    {
+      "id": "poppin-party",
+      "name": "Poppin'Party",
+      "category": "girls-band-party-season-1",
+      "members": [
+        { "id": "toyama-kasumi", "nameKo": "토야마 카스미", "roles": ["vocal", "guitar"] },
+        { "id": "hanazono-tae", "nameKo": "하나조노 타에", "roles": ["guitar"] },
+        { "id": "ushigome-rimi", "nameKo": "우시고메 리미", "roles": ["bass"] },
+        { "id": "yamabuki-saaya", "nameKo": "야마부키 사아야", "roles": ["drums"] },
+        { "id": "ichigaya-arisa", "nameKo": "이치가야 아리사", "roles": ["keyboard"] }
+      ]
+    },
+    {
+      "id": "afterglow",
+      "name": "Afterglow",
+      "category": "girls-band-party-season-1",
+      "members": [
+        { "id": "mitake-ran", "nameKo": "미타케 란", "roles": ["vocal", "guitar"] },
+        { "id": "aoba-moca", "nameKo": "아오바 모카", "roles": ["guitar"] },
+        { "id": "uehara-himari", "nameKo": "우에하라 히마리", "roles": ["bass"] },
+        { "id": "udagawa-tomoe", "nameKo": "우다가와 토모에", "roles": ["drums"] },
+        { "id": "hazawa-tsugumi", "nameKo": "하자와 츠구미", "roles": ["keyboard"] }
+      ]
+    },
+    {
+      "id": "pastel-palettes",
+      "name": "Pastel*Palettes",
+      "category": "girls-band-party-season-1",
+      "members": [
+        { "id": "maruyama-aya", "nameKo": "마루야마 아야", "roles": ["vocal"] },
+        { "id": "hikawa-hina", "nameKo": "히카와 히나", "roles": ["guitar"] },
+        { "id": "shirasagi-chisato", "nameKo": "시라사기 치사토", "roles": ["bass"] },
+        { "id": "yamato-maya", "nameKo": "야마토 마야", "roles": ["drums"] },
+        { "id": "wakamiya-eve", "nameKo": "와카미야 이브", "roles": ["keyboard"] }
+      ]
+    },
+    {
+      "id": "roselia",
+      "name": "Roselia",
+      "category": "girls-band-party-season-1",
+      "members": [
+        { "id": "minato-yukina", "nameKo": "미나토 유키나", "roles": ["vocal"] },
+        { "id": "hikawa-sayo", "nameKo": "히카와 사요", "roles": ["guitar"] },
+        { "id": "imai-lisa", "nameKo": "이마이 리사", "roles": ["bass"] },
+        { "id": "udagawa-ako", "nameKo": "우다가와 아코", "roles": ["drums"] },
+        { "id": "shirokane-rinko", "nameKo": "시로카네 린코", "roles": ["keyboard"] }
+      ]
+    },
+    {
+      "id": "hello-happy-world",
+      "name": "헬로, 해피 월드!",
+      "nameEn": "Hello, Happy World!",
+      "category": "girls-band-party-season-1",
+      "members": [
+        { "id": "tsurumaki-kokoro", "nameKo": "츠루마키 코코로", "roles": ["vocal"] },
+        { "id": "seta-kaoru", "nameKo": "세타 카오루", "roles": ["guitar"] },
+        { "id": "kitazawa-hagumi", "nameKo": "키타자와 하구미", "roles": ["bass"] },
+        { "id": "matsubara-kanon", "nameKo": "마츠바라 카논", "roles": ["drums"] },
+        { "id": "okusawa-misaki", "nameKo": "오쿠사와 미사키", "stageName": "미셸", "roles": ["dj"] }
+      ]
+    },
+    {
+      "id": "morfonica",
+      "name": "Morfonica",
+      "category": "girls-band-party-season-2",
+      "members": [
+        { "id": "kurata-mashiro", "nameKo": "쿠라타 마시로", "roles": ["vocal"] },
+        { "id": "kirigaya-touko", "nameKo": "키리가야 토우코", "roles": ["guitar"] },
+        { "id": "hiromachi-nanami", "nameKo": "히로마치 나나미", "roles": ["bass"] },
+        { "id": "futaba-tsukushi", "nameKo": "후타바 츠쿠시", "roles": ["drums"] },
+        { "id": "yashio-rui", "nameKo": "야시오 루이", "roles": ["violin"] }
+      ]
+    },
+    {
+      "id": "raise-a-suilen",
+      "name": "RAISE A SUILEN",
+      "category": "girls-band-party-season-2",
+      "members": [
+        { "id": "wakana-rei", "nameKo": "와카나 레이", "stageName": "레이야", "stageNameEn": "LAYER", "roles": ["vocal", "bass"] },
+        { "id": "asahi-rokka", "nameKo": "아사히 롯카", "stageName": "록", "stageNameEn": "LOCK", "roles": ["guitar"] },
+        { "id": "satou-masaki", "nameKo": "사토 마스키", "stageName": "마스킹", "stageNameEn": "MASKING", "roles": ["drums"] },
+        { "id": "nyubara-reona", "nameKo": "뉴바라 레오나", "stageName": "파레오", "stageNameEn": "PAREO", "roles": ["keyboard"] },
+        { "id": "tamade-chiyu", "nameKo": "타마데 치유", "stageName": "츄츄", "stageNameEn": "CHU²", "roles": ["dj"] }
+      ]
+    },
+    {
+      "id": "mygo",
+      "name": "MyGO!!!!!",
+      "category": "our-note",
+      "members": [
+        { "id": "takamatsu-tomori", "nameKo": "타카마츠 토모리", "roles": ["vocal"] },
+        { "id": "chihaya-anon", "nameKo": "치하야 아논", "roles": ["guitar"] },
+        { "id": "kaname-raana", "nameKo": "카나메 라나", "roles": ["guitar"] },
+        { "id": "nagasaki-soyo", "nameKo": "나가사키 소요", "roles": ["bass"] },
+        { "id": "shiina-taki", "nameKo": "시이나 타키", "roles": ["drums"] }
+      ]
+    },
+    {
+      "id": "ave-mujica",
+      "name": "Ave Mujica",
+      "category": "our-note",
+      "members": [
+        { "id": "misumi-uika", "nameKo": "미스미 우이카", "stageName": "돌로리스", "stageNameEn": "Doloris", "roles": ["vocal", "guitar"] },
+        { "id": "wakaba-mutsumi", "nameKo": "와카바 무츠미", "stageName": "모르티스", "stageNameEn": "Mortis", "roles": ["guitar"] },
+        { "id": "yahata-umiri", "nameKo": "야하타 우미리", "stageName": "티모리스", "stageNameEn": "Timoris", "roles": ["bass"] },
+        { "id": "yutenji-nyamu", "nameKo": "유텐지 냐무", "stageName": "아모리스", "stageNameEn": "Amoris", "roles": ["drums"] },
+        { "id": "togawa-sakiko", "nameKo": "토가와 사키코", "stageName": "오블리비오니스", "stageNameEn": "Oblivionis", "roles": ["keyboard"] }
+      ]
+    },
+    {
+      "id": "mugendai-mewtype",
+      "name": "무겐다이 뮤타입",
+      "nameEn": "Mugendai Mewtype",
+      "category": "our-note",
+      "members": [
+        { "id": "nakamachi-arale", "nameKo": "나카마치 아라레", "roles": ["vocal"] },
+        { "id": "miyanaga-nonoka", "nameKo": "미야나가 노노카", "roles": ["guitar"] },
+        { "id": "minetsuki-ritsu", "nameKo": "미네츠키 리츠", "roles": ["guitar"] },
+        { "id": "fuji-miyako", "nameKo": "후지 미야코", "roles": ["keyboard"] },
+        { "id": "sengoku-yuno", "nameKo": "센고쿠 유노", "roles": ["dj", "manipulator"] }
+      ]
+    },
+    {
+      "id": "millsage",
+      "name": "millsage",
+      "category": "our-note",
+      "members": [
+        { "id": "shiomi-hotaru", "nameKo": "시오미 호타루", "roles": ["vocal", "keyboard"] },
+        { "id": "izawa-natsume", "nameKo": "이자와 나츠메", "roles": ["guitar"] },
+        { "id": "kotohira-nagi", "nameKo": "코토히라 나기", "roles": ["guitar"] },
+        { "id": "hamasaki-mahoro", "nameKo": "하마사키 마호로", "roles": ["bass"] },
+        { "id": "izumi-houka", "nameKo": "이즈미 호우카", "roles": ["drums"] }
+      ]
+    },
+    {
+      "id": "ikka-dumb-rock",
+      "name": "일가 Dumb Rock!",
+      "category": "our-note",
+      "members": [
+        { "id": "suga-raika", "nameKo": "스가 라이카", "roles": ["vocal", "guitar"] },
+        { "id": "mahashi-miku", "nameKo": "마하시 미쿠", "roles": ["vocal", "guitar"] },
+        { "id": "yakura-yomogi", "nameKo": "야쿠라 요모기", "roles": ["bass"] },
+        { "id": "umezato-chieri", "nameKo": "우메자토 치에리", "roles": ["drums"] },
+        { "id": "shinomiya-shizuku", "nameKo": "시노미야 시즈쿠", "roles": ["keyboard"] }
+      ]
+    }
+  ]
+}

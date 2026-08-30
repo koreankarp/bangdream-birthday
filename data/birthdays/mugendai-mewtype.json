@@ -1,0 +1,55 @@
+{
+  "collectedAt": "2026-08-30T15:28:17+09:00",
+  "characters": [
+    {
+      "id": "nakamachi-arale",
+      "nameKo": "나카마치 아라레",
+      "bandId": "mugendai-mewtype",
+      "birthday": "08-16",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (仲町あられ) / bang-dream.com 공식 뉴스 생일 프레젠트 안내",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/nakamachi-arale/",
+      "notes": "Our Notes 공식 게임 사이트 프로필에 誕生日 8月16日 명기. bang-dream.com 공식 뉴스(https://bang-dream.com/news/1886/)에서도 '2024年8月16日で誕生日を迎える'로 확인 -- 2개 공식 출처 교차 확인."
+    },
+    {
+      "id": "miyanaga-nonoka",
+      "nameKo": "미야나가 노노카",
+      "bandId": "mugendai-mewtype",
+      "birthday": "04-17",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (宮永ののか) / bang-dream.com 공식 뉴스 생일 프레젠트 안내",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/miyanaga-nonoka/",
+      "notes": "Our Notes 공식 게임 사이트 프로필에 誕生日 4月17日 명기. bang-dream.com 공식 뉴스(https://bang-dream.com/news/1800/)에서도 '2024年4月17日で誕生日を迎える'로 확인 -- 2개 공식 출처 교차 확인."
+    },
+    {
+      "id": "minetsuki-ritsu",
+      "nameKo": "미네츠키 리츠",
+      "bandId": "mugendai-mewtype",
+      "birthday": "02-07",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (峰月律)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/minetsuki-ritsu/",
+      "notes": "Our Notes 공식 게임 사이트 프로필에 誕生日 2月7日 명기. 단일 공식 출처(교차 확인용 별도 공식 뉴스는 미발견)."
+    },
+    {
+      "id": "fuji-miyako",
+      "nameKo": "후지 미야코",
+      "bandId": "mugendai-mewtype",
+      "birthday": "09-19",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (藤都子) / 藤都子 공식 note 계정",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/fuji-miyako/",
+      "notes": "Our Notes 공식 게임 사이트 프로필에 誕生日 9月19日 명기. 캐릭터 본인 공식 note 계정(https://note.com/miyako_yumemita/n/n52aab6cc84d9)에서도 '誕生日9/19'로 언급 -- 교차 확인."
+    },
+    {
+      "id": "sengoku-yuno",
+      "nameKo": "센고쿠 유노",
+      "bandId": "mugendai-mewtype",
+      "birthday": "11-04",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (千石ユノ)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/sengoku-yuno/",
+      "notes": "Our Notes 공식 게임 사이트 프로필에 誕生日 11月4日 명기. 단일 공식 출처(교차 확인용 별도 공식 뉴스는 미발견)."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "collectedAt": "2026-08-30T16:35:04+09:00",
+  "sourcePage": "https://namu.wiki/w/Roselia",
+  "note": "나무위키 BanG Dream 문서의 네비게이션 틀에서 추출한 밴드 로고. 이미지 권리는 원저작자(BanG Dream! Project / Bushiroad)에게 있으므로 공개 배포 전에 반드시 권리를 확인해야 한다.",
+  "logos": [
+    {
+      "bandId": "poppin-party",
+      "localPath": "/bands/poppin-party.webp",
+      "format": "webp",
+      "sourceAlt": "Poppin party log...",
+      "sourceImage": "https://i.namu.wiki/i/Hf-sucncBThBK_XXfUL6J7lNvikmvDA2mtA981qaamqF-qg1Qiu7b1liGwn3Y9vJbxCViZd80evzAWzolsQMFM-CGGHYncHjgQ09VuZBtrs0tkWo-MSDQSaxFZNziU2ovwKGgsam0PjOqENja49Uyg.webp",
+      "byteSize": 7780
+    },
+    {
+      "bandId": "afterglow",
+      "localPath": "/bands/afterglow.svg",
+      "format": "svg",
+      "sourceAlt": "Afterglow(BanG D...",
+      "sourceImage": "https://i.namu.wiki/i/EU2L3nINquLhH31IuiBo0R-pKKg0fNUcJcsgPRdPkZ41J6aipupmmpDqgVwS8nipWSvR1Z61RcFt2cNPxmrx5LrOM-gNKlOZ3CDSgyscoLTViuYh755OjQdF8dtpkQKUkkq0kKwFuRDZjWesU5jevw.svg",
+      "byteSize": 11732
+    },
+    {
+      "bandId": "pastel-palettes",
+      "localPath": "/bands/pastel-palettes.svg",
+      "format": "svg",
+      "sourceAlt": "Pastel*Palettes ...",
+      "sourceImage": "https://i.namu.wiki/i/5jsDpBV5sI4H3H8PPZQeVIQSlInKiX19VZneQllYm8RRBTRC_Gbt7EBWzYa3-QK_LskTBitkau68Wpo7PQyQ2TSIDX72uz1F482f69txQ3LHXrcyMYZt9esVYA4j_6VnTytNYo4NcUN6E1R-yipn6w.svg",
+      "byteSize": 41872
+    },
+    {
+      "bandId": "roselia",
+      "localPath": "/bands/roselia.webp",
+      "format": "webp",
+      "sourceAlt": "Roselia logo",
+      "sourceImage": "https://i.namu.wiki/i/k6AGn6rZ3GCq2gHD0GbwCpbYBigjPdiboIe-WH9iy4fJsPnpMu3nxQPmg1Gkr2gC93BuQaDkqezmRLXCbYXkg2QAVukf08N83fOp6ajZ2RG7BPWqF6vZeC54j8WtZGsnj_nPVxPz8mRdomm8XodmnA.webp",
+      "byteSize": 4994
+    },
+    {
+      "bandId": "hello-happy-world",
+      "localPath": "/bands/hello-happy-world.webp",
+      "format": "webp",
+      "sourceAlt": "(override) 원판 로고 직접 지정",
+      "sourceImage": "https://i.namu.wiki/i/bPYhb8PyIAn0FQsKzJK8EknyRZHUbYmW7kKaS3feHdp9_2fmFBTcM8ol7r8O0CtZqLVbnbFWnrqmeaesgvBDB5GCRRetz2HjE2oZSiDNgf3acV79LfuKmmJyCPJxz1uLqhkBbOyra_J10FOuK_ZY7Q.webp",
+      "byteSize": 8550
+    },
+    {
+      "bandId": "morfonica",
+      "localPath": "/bands/morfonica.webp",
+      "format": "webp",
+      "sourceAlt": "morfonica logo",
+      "sourceImage": "https://i.namu.wiki/i/ZG_Dym10NC3-Z9iOvDzTofxeIQzOotWY5gcCNDwHMwbZqZqrzvWobLysDRBhgcpsfNdyzp6ctaM5sw7OpDFdop9ER6il27PoqKn7wyp--1iTvRTl86G2_nXAujLTYDW_JBJiKSfas145Tj_Suomsog.webp",
+      "byteSize": 10164
+    },
+    {
+      "bandId": "raise-a-suilen",
+      "localPath": "/bands/raise-a-suilen.webp",
+      "format": "webp",
+      "sourceAlt": "RAISE A SUILEN l...",
+      "sourceImage": "https://i.namu.wiki/i/_4fCAQO3y5xnAlf0wmZ8rZCaFpWrkhVPBhhBt6OR5obFSqQaJbDF9KAQ3IhaEI8oyvO5l4eGtNtzzlojbZnBluK5f8dHoLInLk4d73gBVKQCA4STj-JuL2svohecUkufhoedieuSD3SGWibzAzo7Xw.webp",
+      "byteSize": 7808
+    },
+    {
+      "bandId": "mygo",
+      "localPath": "/bands/mygo.webp",
+      "format": "webp",
+      "sourceAlt": "MyGO logo",
+      "sourceImage": "https://i.namu.wiki/i/fSCXCIeINyDEpekML2Wh5FPiJ_zzxnlXv0Nv52uDvw3HTqwK5APfFxwnLIaWjgp8u440QStHYz8C-e1kFdUGNCMqqVI-xFlAmaryNQNsI1TtGeAQyNUwv6cgturF5iZLOZ0JypsrY2SsP6GcM4wjWg.webp",
+      "byteSize": 21608
+    },
+    {
+      "bandId": "ave-mujica",
+      "localPath": "/bands/ave-mujica.webp",
+      "format": "webp",
+      "sourceAlt": "Ave Mujica logo",
+      "sourceImage": "https://i.namu.wiki/i/u4AhxPpaD-YReXoz_TYetiLcoWSiTJ9LzgVg5R2xtT2GiRMHEJ7iAEAX6wIytMiGdSmDU2wK3LzN2WPb-rlMf3tjDruvtYOEadTZYSmsLcmHTayzLqq8jLhIrOHQNksR6q4QjosU04GQF9FgiZLf9Q.webp",
+      "byteSize": 25602
+    },
+    {
+      "bandId": "mugendai-mewtype",
+      "localPath": "/bands/mugendai-mewtype.webp",
+      "format": "webp",
+      "sourceAlt": "(override) 원판 로고 직접 지정",
+      "sourceImage": "https://i.namu.wiki/i/j1WDVdZ1v2uaZo39y5l2k9kCoRxnVvC2Mq3xlHU6xGJBycmnIIKQQdo2U1D6Lrgohn_tYFXYC4B1a6bAve3UbAmVq5mFZ_a1hNNwFv8HOGIhbnS5B1M5WbgUc75cnYzYkg3kapzZgy7my2MdngiNcQ.webp",
+      "byteSize": 31996
+    },
+    {
+      "bandId": "millsage",
+      "localPath": "/bands/millsage.webp",
+      "format": "webp",
+      "sourceAlt": "millsage logo",
+      "sourceImage": "https://i.namu.wiki/i/z_26Y20QQuKqIJJBuwITQS7k_fkA2B7X-5y6fMEcj53BfAkA6OxrrWCBsjegszBUOdlkCO1jGdnEBocaNTCXqjj3uUNdoQnk7hCsy6-Iidem-MHz56qkoD36XlI9kTdtGMhgWwz2_siDNNl_WJ96yg.webp",
+      "byteSize": 10404
+    },
+    {
+      "bandId": "ikka-dumb-rock",
+      "localPath": "/bands/ikka-dumb-rock.webp",
+      "format": "webp",
+      "sourceAlt": "(override) 원판 로고 직접 지정",
+      "sourceImage": "https://i.namu.wiki/i/JwqsXqu77BDIeZbEsUAkzH8HLAUO0sDq4_C5w1sYUV2JMBu6aiUL8z-K-mX7sa5PrlskUwwM7HMh13FaVVu_cKWwYlKVupR1MXpfXMNlqb_LVHc-rB3HYZQQDxEcHXGxnPawcFyN41J7JKk5xeZBHg.webp",
+      "byteSize": 20638
+    }
+  ]
+}

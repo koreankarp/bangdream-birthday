@@ -1,0 +1,105 @@
+{
+  "collectedAt": "2026-08-30T15:17:42+09:00",
+  "characters": [
+    {
+      "id": "shiomi-hotaru",
+      "nameKo": "시오미 호타루",
+      "bandId": "millsage",
+      "birthday": "03-12",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (汐見 蛍)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/shiomi-hotaru/",
+      "notes": "공식 게임 프로필에 誕生日 3月12日 명시"
+    },
+    {
+      "id": "izawa-natsume",
+      "nameKo": "이자와 나츠메",
+      "bandId": "millsage",
+      "birthday": "03-30",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (伊沢 なつめ)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/izawa-natsume/",
+      "notes": "공식 게임 프로필에 誕生日 3月30日 명시"
+    },
+    {
+      "id": "kotohira-nagi",
+      "nameKo": "코토히라 나기",
+      "bandId": "millsage",
+      "birthday": "12-10",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (琴平 凪)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/kotohira-nagi/",
+      "notes": "공식 게임 프로필에 誕生日 12月10日 명시"
+    },
+    {
+      "id": "hamasaki-mahoro",
+      "nameKo": "하마사키 마호로",
+      "bandId": "millsage",
+      "birthday": "07-16",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (浜崎 まほろ)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/hamasaki-mahoro/",
+      "notes": "공식 게임 프로필에 誕生日 7月16日 명시"
+    },
+    {
+      "id": "izumi-houka",
+      "nameKo": "이즈미 호우카",
+      "bandId": "millsage",
+      "birthday": "10-24",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (和泉 朋花)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/izumi-houka/",
+      "notes": "공식 게임 프로필에 誕生日 10月24日 명시. 로마자 표기 Houka Izumi, 일본어 표기 和泉 朋花"
+    },
+    {
+      "id": "suga-raika",
+      "nameKo": "스가 라이카",
+      "bandId": "ikka-dumb-rock",
+      "birthday": "07-28",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (須賀 蕾叶)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/suga-raika/",
+      "notes": "공식 게임 프로필에 誕生日 7月28日 명시"
+    },
+    {
+      "id": "mahashi-miku",
+      "nameKo": "마하시 미쿠",
+      "bandId": "ikka-dumb-rock",
+      "birthday": "10-04",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (馬橋 心玖)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/mahashi-miku/",
+      "notes": "공식 게임 프로필에 誕生日 10月4日 명시"
+    },
+    {
+      "id": "yakura-yomogi",
+      "nameKo": "야쿠라 요모기",
+      "bandId": "ikka-dumb-rock",
+      "birthday": "05-06",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (矢倉 蓬咲)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/yakura-yomogi/",
+      "notes": "공식 게임 프로필에 誕生日 5月6日 명시"
+    },
+    {
+      "id": "umezato-chieri",
+      "nameKo": "우메자토 치에리",
+      "bandId": "ikka-dumb-rock",
+      "birthday": "04-02",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (梅里 ちえり)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/umezato-chieri/",
+      "notes": "공식 게임 프로필에 誕生日 4月2日 명시"
+    },
+    {
+      "id": "shinomiya-shizuku",
+      "nameKo": "시노미야 시즈쿠",
+      "bandId": "ikka-dumb-rock",
+      "birthday": "03-05",
+      "confidence": "primary",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (四宮 寧月)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/shinomiya-shizuku/",
+      "notes": "공식 게임 프로필에 誕生日 3月5日 명시"
+    }
+  ]
+}

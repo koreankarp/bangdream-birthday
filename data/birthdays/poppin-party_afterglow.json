@@ -1,0 +1,105 @@
+{
+  "collectedAt": "2026-08-30T06:16:20Z",
+  "characters": [
+    {
+      "id": "toyama-kasumi",
+      "nameKo": "토야마 카스미",
+      "bandId": "poppin-party",
+      "birthday": "07-14",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (corroborated by official バンドリ！ Tumblr birthday post)",
+      "sourceUrl": "https://bangdreaming.tumblr.com/post/175870775709/today-july-14th-is-toyama-kasumis-birthday",
+      "notes": ""
+    },
+    {
+      "id": "hanazono-tae",
+      "nameKo": "하나조노 타에",
+      "bandId": "poppin-party",
+      "birthday": "12-04",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Dec 4)",
+      "sourceUrl": "https://bandori.fandom.com/wiki/BanG_Dream!:This_day_in_history/December",
+      "notes": ""
+    },
+    {
+      "id": "ushigome-rimi",
+      "nameKo": "우시고메 리미",
+      "bandId": "poppin-party",
+      "birthday": "03-23",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game Special Birthday! gacha ran Mar 23)",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Ushigome_Rimi_Special_Birthday!_Gacha",
+      "notes": ""
+    },
+    {
+      "id": "yamabuki-saaya",
+      "nameKo": "야마부키 사아야",
+      "bandId": "poppin-party",
+      "birthday": "05-19",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event May 19)",
+      "sourceUrl": "https://bandori.fandom.com/f/t/Yamabuki%20Saaya",
+      "notes": "게임 최초 설정에서는 3월 3일이었으나 이후 공식 설정이 5월 19일로 변경/통일됨."
+    },
+    {
+      "id": "ichigaya-arisa",
+      "nameKo": "이치가야 아리사",
+      "bandId": "poppin-party",
+      "birthday": "10-27",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game Special Birthday! gacha ran Oct 27)",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Ichigaya_Arisa_Special_Birthday!_Gacha",
+      "notes": ""
+    },
+    {
+      "id": "mitake-ran",
+      "nameKo": "미타케 란",
+      "bandId": "afterglow",
+      "birthday": "04-10",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Apr 10)",
+      "sourceUrl": "https://bandori.fandom.com/f/t/Mitake%20Ran",
+      "notes": ""
+    },
+    {
+      "id": "aoba-moca",
+      "nameKo": "아오바 모카",
+      "bandId": "afterglow",
+      "birthday": "09-03",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (MyAnimeList/anibase reflect official Sep 3)",
+      "sourceUrl": "https://myanimelist.net/character/157525/Moca_Aoba",
+      "notes": ""
+    },
+    {
+      "id": "uehara-himari",
+      "nameKo": "우에하라 히마리",
+      "bandId": "afterglow",
+      "birthday": "10-23",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (MyAnimeList reflects official Oct 23)",
+      "sourceUrl": "https://myanimelist.net/character/157526/Uehara,%20Himari",
+      "notes": ""
+    },
+    {
+      "id": "udagawa-tomoe",
+      "nameKo": "우다가와 토모에",
+      "bandId": "afterglow",
+      "birthday": "04-15",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Apr 15)",
+      "sourceUrl": "https://bandori.fandom.com/f/t/Udagawa%20Tomoe",
+      "notes": ""
+    },
+    {
+      "id": "hazawa-tsugumi",
+      "nameKo": "하자와 츠구미",
+      "bandId": "afterglow",
+      "birthday": "01-07",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (corroborated by official バンドリ！ Tumblr birthday post, 2018)",
+      "sourceUrl": "https://bangdreaming.tumblr.com/post/169390006699/today-jan-7th-is-the-birthday-of-hazawa-tsugumi",
+      "notes": ""
+    }
+  ]
+}

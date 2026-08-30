@@ -1,0 +1,105 @@
+{
+  "collectedAt": "2026-08-30T15:20:00+09:00",
+  "characters": [
+    {
+      "id": "wakana-rei",
+      "nameKo": "와카나 레이",
+      "bandId": "raise-a-suilen",
+      "birthday": "01-13",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Wakana Rei) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Wakana_Rei",
+      "notes": "활동명 '와카나 레이(和奏レイ)' 프로필에서 확인. 스테이지명 LAYER. RAS 멤버는 별도 본명 설정이 없고 이 이름이 캐릭터 본명. 성우 Raychell과 생일 공유(1/13). 공식 2nd Season 캐릭터 사이트(anime.bang-dream.com/2nd/character/other/?id=reija)를 근거로 함."
+    },
+    {
+      "id": "asahi-rokka",
+      "nameKo": "아사히 롯카",
+      "bandId": "raise-a-suilen",
+      "birthday": "07-17",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Asahi Rokka) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Asahi_Rokka",
+      "notes": "활동명 '아사히 롯카(朝日六花)' 프로필에서 확인. 스테이지명 LOCK. 7/17은 THE THIRD 2nd Live 개최일과 동일."
+    },
+    {
+      "id": "satou-masuki",
+      "nameKo": "사토 마스키",
+      "bandId": "raise-a-suilen",
+      "birthday": "05-12",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Satou Masuki) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Satou_Masuki",
+      "notes": "활동명 '사토 마스키(佐藤ますき)' 프로필에서 확인. 스테이지명 MASKING. 5/12는 THE THIRD가 Poppin'Party 5th Live 오프닝을 맡은 날. 공식 2nd Season 사이트(anime.bang-dream.com/2nd/character/other/?id=masking) 근거."
+    },
+    {
+      "id": "nyubara-reona",
+      "nameKo": "뉴바라 레오나",
+      "bandId": "raise-a-suilen",
+      "birthday": "03-25",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (게임 프로필) — 다중 출처 교차확인",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Nyubara_Reona",
+      "notes": "활동명 '뉴바라 레오나(鳰原れおな)' 프로필. 스테이지명 PAREO. 개별 위키 페이지가 403으로 직접 열리지 않아 위키 공식 생일 안내글(3/25 축하)과 aniSearch(3/25)로 교차확인. RAS 멤버로 본명=캐릭터명."
+    },
+    {
+      "id": "tamade-chiyu",
+      "nameKo": "타마데 치유",
+      "bandId": "raise-a-suilen",
+      "birthday": "12-07",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Tamade Chiyu) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Tamade_Chiyu",
+      "notes": "활동명 '타마데 치유(珠手ちゆ)' 프로필에서 확인. 스테이지명 CHU². 12/7은 RAS 3rd Live 'Brave New World' 개최일과 동일."
+    },
+    {
+      "id": "takamatsu-tomori",
+      "nameKo": "타카마츠 토모리",
+      "bandId": "mygo",
+      "birthday": "11-22",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Takamatsu Tomori) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Takamatsu_Tomori",
+      "notes": "본명 高松燈. 공식 MyGO 캐릭터 사이트(anime.bang-dream.com/mygo/character/tomori/) 근거. Scorpio."
+    },
+    {
+      "id": "chihaya-anon",
+      "nameKo": "치하야 아논",
+      "bandId": "mygo",
+      "birthday": "09-08",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Chihaya Anon) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Chihaya_Anon",
+      "notes": "본명 千早愛音. 공식 MyGO 캐릭터 사이트(anime.bang-dream.com/mygo/character/anon/) 근거. Virgo."
+    },
+    {
+      "id": "kaname-raana",
+      "nameKo": "카나메 라나",
+      "bandId": "mygo",
+      "birthday": "02-22",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Kaname Raana) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Kaname_Raana",
+      "notes": "본명 要楽奈. 공식 MyGO 캐릭터 사이트(anime.bang-dream.com/mygo/character/rana/) 근거. 2/22는 일본 고양이의 날이며 캐릭터 모티프(이색 홍채)와 연결됨. Pisces."
+    },
+    {
+      "id": "nagasaki-soyo",
+      "nameKo": "나가사키 소요",
+      "bandId": "mygo",
+      "birthday": "05-27",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Nagasaki Soyo) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Nagasaki_Soyo",
+      "notes": "본명 長崎そよ(구 一ノ瀬そよ). 공식 MyGO 캐릭터 사이트(anime.bang-dream.com/mygo/character/soyo/) 근거. Gemini."
+    },
+    {
+      "id": "shiina-taki",
+      "nameKo": "시이나 타키",
+      "bandId": "mygo",
+      "birthday": "08-09",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 게임 사이트 (椎名立希)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/mygo/shiina-taki/",
+      "notes": "본명 椎名立希. 공식 게임 'Our Notes' 캐릭터 페이지에서 誕生日 8月9日 직접 확인(가장 강한 1차 출처). MyAnimeList(Aug 9, Leo)와도 일치. 애니 공식 사이트는 생일 미표기라 게임 프로필을 근거로 함."
+    }
+  ]
+}

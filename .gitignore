@@ -1,0 +1,25 @@
+# 의존성 / 빌드 산출물
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+
+# 디자인 시안 — 결정용으로만 쓴 로컬 산출물이라 빌드·배포에 들어가지 않는다
+mockups/
+
+# 에디터 / 툴 로컬 설정
+.kiro/
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 로그 / 로컬 환경
+npm-debug.log*
+yarn-error.log*
+*.local
+.env
+.env.*

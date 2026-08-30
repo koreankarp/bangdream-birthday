@@ -1,0 +1,987 @@
+{
+  "generatedAt": "2026-08-30T16:35:04+09:00",
+  "bands": [
+    {
+      "id": "poppin-party",
+      "name": "Poppin'Party",
+      "category": "girls-band-party-season-1",
+      "logo": "/bands/poppin-party.webp"
+    },
+    {
+      "id": "afterglow",
+      "name": "Afterglow",
+      "category": "girls-band-party-season-1",
+      "logo": "/bands/afterglow.svg"
+    },
+    {
+      "id": "pastel-palettes",
+      "name": "Pastel*Palettes",
+      "category": "girls-band-party-season-1",
+      "logo": "/bands/pastel-palettes.svg"
+    },
+    {
+      "id": "roselia",
+      "name": "Roselia",
+      "category": "girls-band-party-season-1",
+      "logo": "/bands/roselia.webp"
+    },
+    {
+      "id": "hello-happy-world",
+      "name": "헬로, 해피 월드!",
+      "category": "girls-band-party-season-1",
+      "logo": "/bands/hello-happy-world.webp"
+    },
+    {
+      "id": "morfonica",
+      "name": "Morfonica",
+      "category": "girls-band-party-season-2",
+      "logo": "/bands/morfonica.webp"
+    },
+    {
+      "id": "raise-a-suilen",
+      "name": "RAISE A SUILEN",
+      "category": "girls-band-party-season-2",
+      "logo": "/bands/raise-a-suilen.webp"
+    },
+    {
+      "id": "mygo",
+      "name": "MyGO!!!!!",
+      "category": "our-note",
+      "logo": "/bands/mygo.webp"
+    },
+    {
+      "id": "ave-mujica",
+      "name": "Ave Mujica",
+      "category": "our-note",
+      "logo": "/bands/ave-mujica.webp"
+    },
+    {
+      "id": "mugendai-mewtype",
+      "name": "무겐다이 뮤타입",
+      "category": "our-note",
+      "logo": "/bands/mugendai-mewtype.webp"
+    },
+    {
+      "id": "millsage",
+      "name": "millsage",
+      "category": "our-note",
+      "logo": "/bands/millsage.webp"
+    },
+    {
+      "id": "ikka-dumb-rock",
+      "name": "일가 Dumb Rock!",
+      "category": "our-note",
+      "logo": "/bands/ikka-dumb-rock.webp"
+    }
+  ],
+  "characters": [
+    {
+      "id": "toyama-kasumi",
+      "nameKo": "토야마 카스미",
+      "stageName": null,
+      "bandId": "poppin-party",
+      "bandName": "Poppin'Party",
+      "roles": [
+        "vocal",
+        "guitar"
+      ],
+      "birthday": "07-14",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (corroborated by official バンドリ！ Tumblr birthday post)",
+      "sourceUrl": "https://bangdreaming.tumblr.com/post/175870775709/today-july-14th-is-toyama-kasumis-birthday",
+      "image": "/characters/toyama-kasumi.webp"
+    },
+    {
+      "id": "hanazono-tae",
+      "nameKo": "하나조노 타에",
+      "stageName": null,
+      "bandId": "poppin-party",
+      "bandName": "Poppin'Party",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "12-04",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Dec 4)",
+      "sourceUrl": "https://bandori.fandom.com/wiki/BanG_Dream!:This_day_in_history/December",
+      "image": "/characters/hanazono-tae.webp"
+    },
+    {
+      "id": "ushigome-rimi",
+      "nameKo": "우시고메 리미",
+      "stageName": null,
+      "bandId": "poppin-party",
+      "bandName": "Poppin'Party",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "03-23",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game Special Birthday! gacha ran Mar 23)",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Ushigome_Rimi_Special_Birthday!_Gacha",
+      "image": "/characters/ushigome-rimi.webp"
+    },
+    {
+      "id": "yamabuki-saaya",
+      "nameKo": "야마부키 사아야",
+      "stageName": null,
+      "bandId": "poppin-party",
+      "bandName": "Poppin'Party",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "05-19",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event May 19)",
+      "sourceUrl": "https://bandori.fandom.com/f/t/Yamabuki%20Saaya",
+      "image": "/characters/yamabuki-saaya.webp"
+    },
+    {
+      "id": "ichigaya-arisa",
+      "nameKo": "이치가야 아리사",
+      "stageName": null,
+      "bandId": "poppin-party",
+      "bandName": "Poppin'Party",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "10-27",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game Special Birthday! gacha ran Oct 27)",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Ichigaya_Arisa_Special_Birthday!_Gacha",
+      "image": "/characters/ichigaya-arisa.webp"
+    },
+    {
+      "id": "mitake-ran",
+      "nameKo": "미타케 란",
+      "stageName": null,
+      "bandId": "afterglow",
+      "bandName": "Afterglow",
+      "roles": [
+        "vocal",
+        "guitar"
+      ],
+      "birthday": "04-10",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Apr 10)",
+      "sourceUrl": "https://bandori.fandom.com/f/t/Mitake%20Ran",
+      "image": "/characters/mitake-ran.webp"
+    },
+    {
+      "id": "aoba-moca",
+      "nameKo": "아오바 모카",
+      "stageName": null,
+      "bandId": "afterglow",
+      "bandName": "Afterglow",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "09-03",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (MyAnimeList/anibase reflect official Sep 3)",
+      "sourceUrl": "https://myanimelist.net/character/157525/Moca_Aoba",
+      "image": "/characters/aoba-moca.webp"
+    },
+    {
+      "id": "uehara-himari",
+      "nameKo": "우에하라 히마리",
+      "stageName": null,
+      "bandId": "afterglow",
+      "bandName": "Afterglow",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "10-23",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (MyAnimeList reflects official Oct 23)",
+      "sourceUrl": "https://myanimelist.net/character/157526/Uehara,%20Himari",
+      "image": "/characters/uehara-himari.webp"
+    },
+    {
+      "id": "udagawa-tomoe",
+      "nameKo": "우다가와 토모에",
+      "stageName": null,
+      "bandId": "afterglow",
+      "bandName": "Afterglow",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "04-15",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (in-game birthday event Apr 15)",
+      "sourceUrl": "https://bandori.fandom.com/f/t/Udagawa%20Tomoe",
+      "image": "/characters/udagawa-tomoe.webp"
+    },
+    {
+      "id": "hazawa-tsugumi",
+      "nameKo": "하자와 츠구미",
+      "stageName": null,
+      "bandId": "afterglow",
+      "bandName": "Afterglow",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "01-07",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Girls Band Party! in-game profile (corroborated by official バンドリ！ Tumblr birthday post, 2018)",
+      "sourceUrl": "https://bangdreaming.tumblr.com/post/169390006699/today-jan-7th-is-the-birthday-of-hazawa-tsugumi",
+      "image": "/characters/hazawa-tsugumi.webp"
+    },
+    {
+      "id": "maruyama-aya",
+      "nameKo": "마루야마 아야",
+      "stageName": null,
+      "bandId": "pastel-palettes",
+      "bandName": "Pastel*Palettes",
+      "roles": [
+        "vocal"
+      ],
+      "birthday": "12-27",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/maruyama-aya/",
+      "image": "/characters/maruyama-aya.webp"
+    },
+    {
+      "id": "hikawa-hina",
+      "nameKo": "히카와 히나",
+      "stageName": null,
+      "bandId": "pastel-palettes",
+      "bandName": "Pastel*Palettes",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "03-20",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/hikawa-hina/",
+      "image": "/characters/hikawa-hina.webp"
+    },
+    {
+      "id": "shirasagi-chisato",
+      "nameKo": "시라사기 치사토",
+      "stageName": null,
+      "bandId": "pastel-palettes",
+      "bandName": "Pastel*Palettes",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "04-06",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/shirasagi-chisato/",
+      "image": "/characters/shirasagi-chisato.webp"
+    },
+    {
+      "id": "yamato-maya",
+      "nameKo": "야마토 마야",
+      "stageName": null,
+      "bandId": "pastel-palettes",
+      "bandName": "Pastel*Palettes",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "11-03",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/yamato-maya/",
+      "image": "/characters/yamato-maya.webp"
+    },
+    {
+      "id": "wakamiya-eve",
+      "nameKo": "와카미야 이브",
+      "stageName": null,
+      "bandId": "pastel-palettes",
+      "bandName": "Pastel*Palettes",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "06-27",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/pastel-palettes/wakamiya-eve/",
+      "image": "/characters/wakamiya-eve.webp"
+    },
+    {
+      "id": "minato-yukina",
+      "nameKo": "미나토 유키나",
+      "stageName": null,
+      "bandId": "roselia",
+      "bandName": "Roselia",
+      "roles": [
+        "vocal"
+      ],
+      "birthday": "10-26",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/minato-yukina/",
+      "image": "/characters/minato-yukina.webp"
+    },
+    {
+      "id": "hikawa-sayo",
+      "nameKo": "히카와 사요",
+      "stageName": null,
+      "bandId": "roselia",
+      "bandName": "Roselia",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "03-20",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/hikawa-sayo/",
+      "image": "/characters/hikawa-sayo.webp"
+    },
+    {
+      "id": "imai-lisa",
+      "nameKo": "이마이 리사",
+      "stageName": null,
+      "bandId": "roselia",
+      "bandName": "Roselia",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "08-25",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/imai-lisa/",
+      "image": "/characters/imai-lisa.webp"
+    },
+    {
+      "id": "udagawa-ako",
+      "nameKo": "우다가와 아코",
+      "stageName": null,
+      "bandId": "roselia",
+      "bandName": "Roselia",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "07-03",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/udagawa-ako/",
+      "image": "/characters/udagawa-ako.webp"
+    },
+    {
+      "id": "shirokane-rinko",
+      "nameKo": "시로카네 린코",
+      "stageName": null,
+      "bandId": "roselia",
+      "bandName": "Roselia",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "10-17",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト (CHARACTER)",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/roselia/shirokane-rinko/",
+      "image": "/characters/shirokane-rinko.webp"
+    },
+    {
+      "id": "tsurumaki-kokoro",
+      "nameKo": "츠루마키 코코로",
+      "stageName": null,
+      "bandId": "hello-happy-world",
+      "bandName": "헬로, 해피 월드!",
+      "roles": [
+        "vocal"
+      ],
+      "birthday": "08-08",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/tsurumaki-kokoro/",
+      "image": "/characters/tsurumaki-kokoro.webp"
+    },
+    {
+      "id": "seta-kaoru",
+      "nameKo": "세타 카오루",
+      "stageName": null,
+      "bandId": "hello-happy-world",
+      "bandName": "헬로, 해피 월드!",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "02-28",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/seta-kaoru/",
+      "image": "/characters/seta-kaoru.webp"
+    },
+    {
+      "id": "kitazawa-hagumi",
+      "nameKo": "키타자와 하구미",
+      "stageName": null,
+      "bandId": "hello-happy-world",
+      "bandName": "헬로, 해피 월드!",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "07-30",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/kitazawa-hagumi/",
+      "image": "/characters/kitazawa-hagumi.webp"
+    },
+    {
+      "id": "matsubara-kanon",
+      "nameKo": "마츠바라 카논",
+      "stageName": null,
+      "bandId": "hello-happy-world",
+      "bandName": "헬로, 해피 월드!",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "05-11",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/matsubara-kanon/",
+      "image": "/characters/matsubara-kanon.webp"
+    },
+    {
+      "id": "okusawa-misaki",
+      "nameKo": "오쿠사와 미사키",
+      "stageName": "미셸",
+      "bandId": "hello-happy-world",
+      "bandName": "헬로, 해피 월드!",
+      "roles": [
+        "dj"
+      ],
+      "birthday": "10-01",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/hello-happy-world/okusawa-misaki/",
+      "image": "/characters/okusawa-misaki.webp"
+    },
+    {
+      "id": "kurata-mashiro",
+      "nameKo": "쿠라타 마시로",
+      "stageName": null,
+      "bandId": "morfonica",
+      "bandName": "Morfonica",
+      "roles": [
+        "vocal"
+      ],
+      "birthday": "02-19",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/kurata-mashiro/",
+      "image": "/characters/kurata-mashiro.webp"
+    },
+    {
+      "id": "kirigaya-touko",
+      "nameKo": "키리가야 토우코",
+      "stageName": null,
+      "bandId": "morfonica",
+      "bandName": "Morfonica",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "12-16",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/kirigaya-toko/",
+      "image": "/characters/kirigaya-touko.webp"
+    },
+    {
+      "id": "hiromachi-nanami",
+      "nameKo": "히로마치 나나미",
+      "stageName": null,
+      "bandId": "morfonica",
+      "bandName": "Morfonica",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "06-16",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/hiromachi-nanami/",
+      "image": "/characters/hiromachi-nanami.webp"
+    },
+    {
+      "id": "futaba-tsukushi",
+      "nameKo": "후타바 츠쿠시",
+      "stageName": null,
+      "bandId": "morfonica",
+      "bandName": "Morfonica",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "09-15",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/futaba-tsukushi/",
+      "image": "/characters/futaba-tsukushi.webp"
+    },
+    {
+      "id": "yashio-rui",
+      "nameKo": "야시오 루이",
+      "stageName": null,
+      "bandId": "morfonica",
+      "bandName": "Morfonica",
+      "roles": [
+        "violin"
+      ],
+      "birthday": "11-19",
+      "confidence": "official",
+      "sourceName": "バンドリ！ ガールズバンドパーティ！ 公式サイト キャラクター",
+      "sourceUrl": "https://bang-dream.bushimo.jp/character/morfonica/yashio-rui/",
+      "image": "/characters/yashio-rui.webp"
+    },
+    {
+      "id": "wakana-rei",
+      "nameKo": "와카나 레이",
+      "stageName": "레이야",
+      "bandId": "raise-a-suilen",
+      "bandName": "RAISE A SUILEN",
+      "roles": [
+        "vocal",
+        "bass"
+      ],
+      "birthday": "01-13",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Wakana Rei) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Wakana_Rei",
+      "image": "/characters/wakana-rei.webp"
+    },
+    {
+      "id": "asahi-rokka",
+      "nameKo": "아사히 롯카",
+      "stageName": "록",
+      "bandId": "raise-a-suilen",
+      "bandName": "RAISE A SUILEN",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "07-17",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Asahi Rokka) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Asahi_Rokka",
+      "image": "/characters/asahi-rokka.webp"
+    },
+    {
+      "id": "satou-masaki",
+      "nameKo": "사토 마스키",
+      "stageName": "마스킹",
+      "bandId": "raise-a-suilen",
+      "bandName": "RAISE A SUILEN",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "05-12",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Satou Masuki) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Satou_Masuki",
+      "image": "/characters/satou-masaki.webp"
+    },
+    {
+      "id": "nyubara-reona",
+      "nameKo": "뉴바라 레오나",
+      "stageName": "파레오",
+      "bandId": "raise-a-suilen",
+      "bandName": "RAISE A SUILEN",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "03-25",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (게임 프로필) — 다중 출처 교차확인",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Nyubara_Reona",
+      "image": "/characters/nyubara-reona.webp"
+    },
+    {
+      "id": "tamade-chiyu",
+      "nameKo": "타마데 치유",
+      "stageName": "츄츄",
+      "bandId": "raise-a-suilen",
+      "bandName": "RAISE A SUILEN",
+      "roles": [
+        "dj"
+      ],
+      "birthday": "12-07",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Tamade Chiyu) — 게임/애니 프로필 재수록",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Tamade_Chiyu",
+      "image": "/characters/tamade-chiyu.webp"
+    },
+    {
+      "id": "takamatsu-tomori",
+      "nameKo": "타카마츠 토모리",
+      "stageName": null,
+      "bandId": "mygo",
+      "bandName": "MyGO!!!!!",
+      "roles": [
+        "vocal"
+      ],
+      "birthday": "11-22",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Takamatsu Tomori) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Takamatsu_Tomori",
+      "image": "/characters/takamatsu-tomori.webp"
+    },
+    {
+      "id": "chihaya-anon",
+      "nameKo": "치하야 아논",
+      "stageName": null,
+      "bandId": "mygo",
+      "bandName": "MyGO!!!!!",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "09-08",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Chihaya Anon) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Chihaya_Anon",
+      "image": "/characters/chihaya-anon.webp"
+    },
+    {
+      "id": "kaname-raana",
+      "nameKo": "카나메 라나",
+      "stageName": null,
+      "bandId": "mygo",
+      "bandName": "MyGO!!!!!",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "02-22",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Kaname Raana) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Kaname_Raana",
+      "image": "/characters/kaname-raana.webp"
+    },
+    {
+      "id": "nagasaki-soyo",
+      "nameKo": "나가사키 소요",
+      "stageName": null,
+      "bandId": "mygo",
+      "bandName": "MyGO!!!!!",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "05-27",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Wikia (Nagasaki Soyo) — 공식 MyGO 프로필 근거",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Nagasaki_Soyo",
+      "image": "/characters/nagasaki-soyo.webp"
+    },
+    {
+      "id": "shiina-taki",
+      "nameKo": "시이나 타키",
+      "stageName": null,
+      "bandId": "mygo",
+      "bandName": "MyGO!!!!!",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "08-09",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 게임 사이트 (椎名立希)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/mygo/shiina-taki/",
+      "image": "/characters/shiina-taki.webp"
+    },
+    {
+      "id": "misumi-uika",
+      "nameKo": "미스미 우이카",
+      "stageName": "돌로리스",
+      "bandId": "ave-mujica",
+      "bandName": "Ave Mujica",
+      "roles": [
+        "vocal",
+        "guitar"
+      ],
+      "birthday": "06-26",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Misumi Uika",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Misumi_Uika",
+      "image": "/characters/misumi-uika.webp"
+    },
+    {
+      "id": "wakaba-mutsumi",
+      "nameKo": "와카바 무츠미",
+      "stageName": "모르티스",
+      "bandId": "ave-mujica",
+      "bandName": "Ave Mujica",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "01-14",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Wakaba Mutsumi",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Wakaba_Mutsumi",
+      "image": "/characters/wakaba-mutsumi.webp"
+    },
+    {
+      "id": "yahata-umiri",
+      "nameKo": "야하타 우미리",
+      "stageName": "티모리스",
+      "bandId": "ave-mujica",
+      "bandName": "Ave Mujica",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "04-07",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Yahata Umiri",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Yahata_Umiri",
+      "image": "/characters/yahata-umiri.webp"
+    },
+    {
+      "id": "yutenji-nyamu",
+      "nameKo": "유텐지 냐무",
+      "stageName": "아모리스",
+      "bandId": "ave-mujica",
+      "bandName": "Ave Mujica",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "06-01",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Yuutenji Nyamu",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Yuutenji_Nyamu",
+      "image": "/characters/yutenji-nyamu.webp"
+    },
+    {
+      "id": "togawa-sakiko",
+      "nameKo": "토가와 사키코",
+      "stageName": "오블리비오니스",
+      "bandId": "ave-mujica",
+      "bandName": "Ave Mujica",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "02-14",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Togawa Sakiko",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Togawa_Sakiko",
+      "image": "/characters/togawa-sakiko.webp"
+    },
+    {
+      "id": "nakamachi-arale",
+      "nameKo": "나카마치 아라레",
+      "stageName": null,
+      "bandId": "mugendai-mewtype",
+      "bandName": "무겐다이 뮤타입",
+      "roles": [
+        "vocal"
+      ],
+      "birthday": "08-16",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (仲町あられ) / bang-dream.com 공식 뉴스 생일 프레젠트 안내",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/nakamachi-arale/",
+      "image": "/characters/nakamachi-arale.webp"
+    },
+    {
+      "id": "miyanaga-nonoka",
+      "nameKo": "미야나가 노노카",
+      "stageName": null,
+      "bandId": "mugendai-mewtype",
+      "bandName": "무겐다이 뮤타입",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "04-17",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (宮永ののか) / bang-dream.com 공식 뉴스 생일 프레젠트 안내",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/miyanaga-nonoka/",
+      "image": "/characters/miyanaga-nonoka.webp"
+    },
+    {
+      "id": "minetsuki-ritsu",
+      "nameKo": "미네츠키 리츠",
+      "stageName": null,
+      "bandId": "mugendai-mewtype",
+      "bandName": "무겐다이 뮤타입",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "02-07",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (峰月律)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/minetsuki-ritsu/",
+      "image": "/characters/minetsuki-ritsu.webp"
+    },
+    {
+      "id": "fuji-miyako",
+      "nameKo": "후지 미야코",
+      "stageName": null,
+      "bandId": "mugendai-mewtype",
+      "bandName": "무겐다이 뮤타입",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "09-19",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (藤都子) / 藤都子 공식 note 계정",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/fuji-miyako/",
+      "image": "/characters/fuji-miyako.webp"
+    },
+    {
+      "id": "sengoku-yuno",
+      "nameKo": "센고쿠 유노",
+      "stageName": null,
+      "bandId": "mugendai-mewtype",
+      "bandName": "무겐다이 뮤타입",
+      "roles": [
+        "dj",
+        "manipulator"
+      ],
+      "birthday": "11-04",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (千石ユノ)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/yumemita/sengoku-yuno/",
+      "image": "/characters/sengoku-yuno.webp"
+    },
+    {
+      "id": "shiomi-hotaru",
+      "nameKo": "시오미 호타루",
+      "stageName": null,
+      "bandId": "millsage",
+      "bandName": "millsage",
+      "roles": [
+        "vocal",
+        "keyboard"
+      ],
+      "birthday": "03-12",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (汐見 蛍)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/shiomi-hotaru/",
+      "image": "/characters/shiomi-hotaru.webp"
+    },
+    {
+      "id": "izawa-natsume",
+      "nameKo": "이자와 나츠메",
+      "stageName": null,
+      "bandId": "millsage",
+      "bandName": "millsage",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "03-30",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (伊沢 なつめ)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/izawa-natsume/",
+      "image": "/characters/izawa-natsume.webp"
+    },
+    {
+      "id": "kotohira-nagi",
+      "nameKo": "코토히라 나기",
+      "stageName": null,
+      "bandId": "millsage",
+      "bandName": "millsage",
+      "roles": [
+        "guitar"
+      ],
+      "birthday": "12-10",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (琴平 凪)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/kotohira-nagi/",
+      "image": "/characters/kotohira-nagi.webp"
+    },
+    {
+      "id": "hamasaki-mahoro",
+      "nameKo": "하마사키 마호로",
+      "stageName": null,
+      "bandId": "millsage",
+      "bandName": "millsage",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "07-16",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (浜崎 まほろ)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/hamasaki-mahoro/",
+      "image": "/characters/hamasaki-mahoro.webp"
+    },
+    {
+      "id": "izumi-houka",
+      "nameKo": "이즈미 호우카",
+      "stageName": null,
+      "bandId": "millsage",
+      "bandName": "millsage",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "10-24",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (和泉 朋花)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/millsage/izumi-houka/",
+      "image": "/characters/izumi-houka.webp"
+    },
+    {
+      "id": "suga-raika",
+      "nameKo": "스가 라이카",
+      "stageName": null,
+      "bandId": "ikka-dumb-rock",
+      "bandName": "일가 Dumb Rock!",
+      "roles": [
+        "vocal",
+        "guitar"
+      ],
+      "birthday": "07-28",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (須賀 蕾叶)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/suga-raika/",
+      "image": "/characters/suga-raika.webp"
+    },
+    {
+      "id": "mahashi-miku",
+      "nameKo": "마하시 미쿠",
+      "stageName": null,
+      "bandId": "ikka-dumb-rock",
+      "bandName": "일가 Dumb Rock!",
+      "roles": [
+        "vocal",
+        "guitar"
+      ],
+      "birthday": "10-04",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (馬橋 心玖)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/mahashi-miku/",
+      "image": "/characters/mahashi-miku.webp"
+    },
+    {
+      "id": "yakura-yomogi",
+      "nameKo": "야쿠라 요모기",
+      "stageName": null,
+      "bandId": "ikka-dumb-rock",
+      "bandName": "일가 Dumb Rock!",
+      "roles": [
+        "bass"
+      ],
+      "birthday": "05-06",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (矢倉 蓬咲)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/yakura-yomogi/",
+      "image": "/characters/yakura-yomogi.webp"
+    },
+    {
+      "id": "umezato-chieri",
+      "nameKo": "우메자토 치에리",
+      "stageName": null,
+      "bandId": "ikka-dumb-rock",
+      "bandName": "일가 Dumb Rock!",
+      "roles": [
+        "drums"
+      ],
+      "birthday": "04-02",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (梅里 ちえり)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/umezato-chieri/",
+      "image": "/characters/umezato-chieri.webp"
+    },
+    {
+      "id": "shinomiya-shizuku",
+      "nameKo": "시노미야 시즈쿠",
+      "stageName": null,
+      "bandId": "ikka-dumb-rock",
+      "bandName": "일가 Dumb Rock!",
+      "roles": [
+        "keyboard"
+      ],
+      "birthday": "03-05",
+      "confidence": "official",
+      "sourceName": "BanG Dream! Our Notes 공식 캐릭터 페이지 (四宮 寧月)",
+      "sourceUrl": "https://bang-dream-on.bushimo.jp/character/ikka-dumb-rock/shinomiya-shizuku/",
+      "image": "/characters/shinomiya-shizuku.webp"
+    }
+  ]
+}

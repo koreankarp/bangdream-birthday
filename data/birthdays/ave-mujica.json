@@ -1,0 +1,55 @@
+{
+  "collectedAt": "2026-08-30T15:28:15+09:00",
+  "characters": [
+    {
+      "id": "misumi-uika",
+      "nameKo": "미스미 우이카",
+      "bandId": "ave-mujica",
+      "birthday": "06-26",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Misumi Uika",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Misumi_Uika",
+      "notes": "본명 三角初華(미스미 우이카) 프로필에서 확인. Birthday June 26, Zodiac Cancer로 기재. Fandom은 공식 팬클럽 RiNG 회원증(bushiroad-creative.com/items/6712)을 근거로 인용하나, 접근 출처가 Fandom 위키이므로 secondary. 공식 애니/아티스트 페이지에는 생일 미기재."
+    },
+    {
+      "id": "wakaba-mutsumi",
+      "nameKo": "와카바 무츠미",
+      "bandId": "ave-mujica",
+      "birthday": "01-14",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Wakaba Mutsumi",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Wakaba_Mutsumi",
+      "notes": "본명 若葉睦(와카바 무츠미) 프로필에서 확인. Birthday January 14, Zodiac Capricorn로 기재. 근거는 공식 팬클럽 RiNG 회원증이나 접근 출처가 Fandom 위키이므로 secondary."
+    },
+    {
+      "id": "yahata-umiri",
+      "nameKo": "야하타 우미리",
+      "bandId": "ave-mujica",
+      "birthday": "04-07",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Yahata Umiri",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Yahata_Umiri",
+      "notes": "본명 八幡海鈴(야하타 우미리) 프로필에서 확인. Birthday April 7, Zodiac Aries로 기재. 근거는 공식 팬클럽 RiNG 회원증이나 접근 출처가 Fandom 위키이므로 secondary."
+    },
+    {
+      "id": "yutenji-nyamu",
+      "nameKo": "유텐지 냐무",
+      "bandId": "ave-mujica",
+      "birthday": "06-01",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Yuutenji Nyamu",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Yuutenji_Nyamu",
+      "notes": "본명 祐天寺にゃむ(유텐지 냐무) 프로필에서 확인. Birthday June 1, Zodiac Gemini로 기재. 근거는 공식 팬클럽 RiNG 회원증이나 접근 출처가 Fandom 위키이므로 secondary."
+    },
+    {
+      "id": "togawa-sakiko",
+      "nameKo": "토가와 사키코",
+      "bandId": "ave-mujica",
+      "birthday": "02-14",
+      "confidence": "secondary",
+      "sourceName": "BanG Dream! Wikia (Fandom) — Togawa Sakiko",
+      "sourceUrl": "https://bandori.fandom.com/wiki/Togawa_Sakiko",
+      "notes": "본명 豊川祥子(토가와/토요카와 사키코) 프로필에서 확인. Birthday February 14, Zodiac Aquarius로 기재. Fandom은 공식 팬클럽 RiNG 회원증을 인용, 추가로 anichoice.com(2월 14일)에서도 교차 확인됨. 다만 두 출처 모두 비공식 집계이므로 secondary. 공식 anime.bang-dream.com 캐릭터 페이지에는 생일 미기재."
+    }
+  ]
+}
