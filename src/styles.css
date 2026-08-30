@@ -354,8 +354,18 @@ body {
 }
 
 .pass {
+  /* 카드 치수를 변수로 빼서, 모달에서는 같은 마크업을 더 크게 쓴다. */
+  --pass-w: 214px;
+  --pass-face-w: 152px;
+  --pass-face-h: 182px;
+  --pass-lanyard-h: 34px;
+  --pass-greeting: 26px;
+  --pass-name: 19px;
+  --pass-logo: 34px;
+  --pass-barcode-h: 26px;
+
   position: relative;
-  width: 214px;
+  width: var(--pass-w);
   padding-bottom: 18px;
   background: #20222e;
   border-radius: 14px;
@@ -368,7 +378,7 @@ body {
 }
 
 .pass__lanyard {
-  height: 34px;
+  height: var(--pass-lanyard-h);
   border-radius: 14px 14px 0 0;
   display: grid;
   place-items: center;
@@ -389,10 +399,10 @@ body {
 
 .pass__face {
   display: block;
-  width: 152px;
+  width: var(--pass-face-w);
   /* 원본 초상화가 세로로 길다(1000x1200~1272). 정사각으로 자르면 그림이 잘리므로
      세로 비율을 살린 박스에 cover 로 채운다. */
-  height: 182px;
+  height: var(--pass-face-h);
   margin: 20px auto 0;
   border-radius: 10px;
   object-fit: cover;
@@ -412,7 +422,7 @@ body {
   margin: 16px 0 0;
   text-align: center;
   font-family: var(--font-display);
-  font-size: 26px;
+  font-size: var(--pass-greeting);
   line-height: 1.05;
   letter-spacing: 0.05em;
   color: var(--band-color);
@@ -421,7 +431,7 @@ body {
 .pass__name {
   margin: 7px 0 0;
   text-align: center;
-  font-size: 19px;
+  font-size: var(--pass-name);
   font-weight: 400;
   /* dialog 안에서는 UA 기본 color(CanvasText) 를 물려받아 검게 나오므로 명시한다. */
   color: var(--text);
@@ -429,7 +439,7 @@ body {
 
 .pass__logo {
   display: block;
-  height: 34px;
+  height: var(--pass-logo);
   width: auto;
   max-width: 160px;
   margin: 12px auto 0;
@@ -456,7 +466,7 @@ body {
 }
 
 .pass__barcode {
-  height: 26px;
+  height: var(--pass-barcode-h);
   margin: 15px 16px 0;
   opacity: 0.5;
   background-image: repeating-linear-gradient(
@@ -469,7 +479,7 @@ body {
 }
 
 .pass__greeting--countdown {
-  font-size: 40px;
+  font-size: calc(var(--pass-greeting) * 1.5);
   line-height: 1;
 }
 
@@ -496,11 +506,46 @@ body {
   align-items: center;
   gap: 18px;
   padding: 24px;
+  /* 짧은 화면에서 카드가 잘리지 않게 한다. */
+  max-height: 100vh;
+  overflow: auto;
 }
 
-/* 모달 안에서는 기울기를 펴서 정면으로 보여준다. */
+/*
+ * 모달에서는 같은 마크업을 한 단계 크게 쓴다. 목록 위 히어로는 주변 UI 와
+ * 균형이 맞아야 하지만, 모달은 화면을 독차지하므로 더 커도 된다.
+ */
 .pass-dialog .pass {
+  --pass-w: 330px;
+  --pass-face-w: 252px;
+  --pass-face-h: 302px;
+  --pass-lanyard-h: 44px;
+  --pass-greeting: 38px;
+  --pass-name: 27px;
+  --pass-logo: 46px;
+  --pass-barcode-h: 34px;
+
+  padding-bottom: 24px;
+  border-radius: 18px;
+  /* 모달 안에서는 기울기를 펴서 정면으로 보여준다. */
   transform: none;
+}
+
+.pass-dialog .pass__hole {
+  width: 60px;
+  height: 11px;
+}
+
+/* 좁은 화면에서는 중간 크기로 낮춘다. */
+@media (max-width: 560px) {
+  .pass-dialog .pass {
+    --pass-w: 282px;
+    --pass-face-w: 214px;
+    --pass-face-h: 256px;
+    --pass-greeting: 32px;
+    --pass-name: 23px;
+    --pass-logo: 40px;
+  }
 }
 
 .pass-dialog__close {
