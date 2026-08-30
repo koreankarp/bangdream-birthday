@@ -168,12 +168,15 @@ export default function App() {
           <button
             key={band.id}
             type="button"
-            className={bandFilter === band.id ? 'chip chip--on' : 'chip'}
+            className={
+              bandFilter === band.id ? 'chip chip--logo chip--on' : 'chip chip--logo'
+            }
             aria-pressed={bandFilter === band.id}
             style={{ ['--band-color' as string]: bandColor(band.id) }}
             onClick={() => setBandFilter(band.id)}
           >
-            {band.name}
+            {/* 로고 이미지의 alt 가 밴드명이라 스크린리더에는 그대로 이름으로 읽힌다. */}
+            <BandLogo bandId={band.id} className="chip__logo" />
           </button>
         ))}
       </nav>
